@@ -61,6 +61,16 @@ function Header() {
             </li>
             <li
               className={`py-2 px-5 font-bold ${
+                isActive("/store") ? "text-blue-400" : ""
+              }`}
+            >
+              <NavLink to="/store" onClick={closeDropdown}>
+                Cửa hàng
+              </NavLink>
+            </li>
+
+            <li
+              className={`py-2 px-5 font-bold ${
                 isActive("/blog") ? "text-blue-400" : ""
               }`}
             >
@@ -79,12 +89,11 @@ function Header() {
             </li>
           </ul>
         </div>
-        <div>
-          <img
-            src="https://reactjs.org/logo-og.png"
-            alt=""
-            className="w-12 object-cover"
-          />
+        <div className="flex-row flex items-center justify-center gap-x-[4px]">
+          <img src="/logo 2-3.png" alt="" className="w-12 object-cover" />
+          <div className="font-bold text-[30px] h-full text-[#0b7752] tracking-widest">
+            CIGNS
+          </div>
         </div>
         <nav className="navbar flex max-md:hidden">
           <ul className="gap-4 hidden md:flex">
