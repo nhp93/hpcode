@@ -26,7 +26,7 @@ export const dataBlogs: Blog[] = [
       "Đấu tranh vì quyền đồng nghĩa với việc biến lời nói thành hành động",
     description:
       "Mình là một người phụ nữ mang trên mình khuyết tật về thể chất. Mình sinh ra và lớn lên tại Hà Nội, thủ đô của Việt Nam. Chuyện kể rằng, mình được sinh ra vào thời kỳ sau chiến tranh. ",
-    dateTime: "8 phút trước",
+    dateTime: "8 ngày trước",
     day: "06/06/2024",
     subContent: [
       {
@@ -58,7 +58,7 @@ export const dataBlogs: Blog[] = [
   },
   {
     id: 2,
-    author: "Trung Anh Hoang",
+    author: "Nguyen Lai Thien Son",
     thumnail:
       "https://www.kymviet.com.vn/Qu%C3%A0%20t%E1%BA%B7ng%20k%E1%BB%B7%20ni%E1%BB%87m%20s%E1%BB%B1%20ki%E1%BB%87n.jpg",
     title: "Quà tặng kỷ yếu và những gợi ý quà tặng có ý nghĩa",
@@ -127,22 +127,29 @@ Quà tặng kỷ yếu không chỉ là một món quà vật chất mà còn ma
   },
   {
     id: 3,
-    author: "ĐẶNG THÙY LINH",
+    author: "Mai Hoa",
     thumnail:
-      "https://s3-alpha-sig.figma.com/img/25ba/9bf1/f50e02f03e31ac2c49e8ba3269f09a1d?Expires=1722211200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=HOxxIrdolrC0jsnVlnJ5hlDlGbw4IzTKC7Yp3oHvsLdkL8g8IfX9H4c1zfR9KzGwTuoCBM7PCmEbwvZmRlTKDIcaACUHqb1r8TSG3Dlx66KcygJ2PzbVNUPI6FC493H3DuNeBWM9b1Vf2ZPZZYBCpzSG331eKMhYhidzGzxjL7yZlhxZQXfjD7Ap9EQyZOxzzUwgZBOXpTzxY~efOA8DpQO2R7eYz7eCUiZgkpc4wenXPXytqU5xWmbcqodWyu3rSB7XnAg76pdndRdzoDbvJXlo4hmqfQjaOsBd-zyCyMS4t9q6OfVCIlqeDJk029UQG0F5Dwup-MT-r7AumxsEtg__",
-    title: "SẢN PHẨM THỦ CÔNG HANDMADE VÀ HANDICRAFT KHÁC NHAU THẾ NÀO?",
+      "https://th.bing.com/th/id/OIP._oEYMUfkJWJGJH1RwN9JLgAAAA?rs=1&pid=ImgDetMain",
+    title:
+      "Quà tặng du lịch làm thủ công handicraft: Vì sao lại đặc biệt hấp dẫn?",
     description:
-      "Mình là một người phụ nữ mang trên mình khuyết tật về thể chất. Mình sinh ra và lớn lên tại Hà Nội, thủ đô của Việt Nam. Chuyện kể rằng, mình được sinh ra vào thời kỳ sau chiến tranh. ",
-    dateTime: "12 phút trước",
-    day: "06/06/2024",
+      "Quà tặng du lịch được làm thủ công [Handicraft travel gifts], đặc biệt là những món đồ được làm từ chất liệu truyền thống của mỗi quốc gia, luôn có một sức hút đặc biệt đối với du khách nước ngoài. Dưới đây là một số lý do:",
+    dateTime: "12 ngày trước",
+    day: "29/07/2024",
     subContent: [
       {
         id: 1,
         imageUrl:
-          "https://s3-alpha-sig.figma.com/img/b0d8/d56f/c1806f8883cbd4c5998f024877c5c3dd?Expires=1724025600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=chBwMqRwQ3QcpdnOWqGo4bNLveTN7k02KhlgBxXquDyqgGd2RnuQSM87y27KtbiV1lV0wq7-BjXdbdgVjTjF-YcYHFQTEe4dQEBM52gokeqSE4Iy4rfHeRKGQgEmK8IepgDpG1dYXZcc0b6lBWogMzMclZ57LhkNgxgQkCQ9FbxK~MGQZSiXveT-JTgBmAL~UhguyGCeYkO4NKdMeMd4JrtZYfyx0eWLfcm~6vzDGesFQvBdcACLEX4WXNjzhMKBHM-NMAchV7psP4353qnJyxdgj0s19ttftwtY~wwX~ZMwOWljsl4AEiCKROO~SpWREe5VIPrWXGzfbY3XZxZwMA__",
-        descImage:
-          "Đoàn công tác đang chia sẻ về các chính sách pháp luật và hoà nhập khuyết tật",
-        content: `Ngày 03-04/5/2024, Viện ACDC phối hợp cùng Sở Lao động – Thương binh và Xã hội, Trung tâm Trợ giúp pháp lý tỉnh và các tổ chức hỗ trợ người khuyết tật tỉnh Bình Định tổ chức tư vấn pháp luật và hoà nhập xã hội cho người khuyết tật huyện Tây Sơn. Sự kiện được diễn ra trong khuôn khổ dự án Hỗ trợ cải thiện chất lượng sống của người khuyết tật tại các tỉnh bị phun rải nặng chất da cam tại tỉnh Bình Định.\nĐoàn tư vấn pháp luật và hỗ trợ hoà nhập có sự tham gia của bà Vũ Thị Tuyết Mai – Giám đốc dự án; bà Lê Hải Yến, Trưởng phòng Luật Viện ACDC; bà Nguyễn Thị Thúy Hằng, đại diện Sở Lao động – Thương binh và Xã hội tỉnh; ông Lê Thành Sơn – Phó Giám đốc Trung tâm Trợ giúp pháp lý nhà nước tỉnh; ông Bùi Trung Dũng – Phó Chủ tịch Hội Bảo trợ người khuyết tật và Bảo vệ quyền trẻ em tỉnh; bà Nguyễn Thị Kim Vân – Phó Giám đốc Trung tâm giáo dục nghề nghiệp tỉnh; bà Trần Thị Thúy Nga – Phó Giám đốc Phòng Giao dịch Ngân hàng Chính sách xã hội huyện Tây Sơn.\nMục tiêu của hoạt động nhằm nâng cao hiểu biết cho người khuyết tật hoặc gia đình người khuyết tật về các chính sách, pháp luật hiện hành liên quan đến người khuyết tật; giúp tư vấn, giải đáp trực tiếp các câu hỏi, vụ việc liên quan đến pháp luật như cho người khuyết tật hoặc gia đình của người khuyết tật có nhu cầu.\nChia sẻ tại buổi tư vấn, ông Nguyễn Hữu Vinh, Trưởng phòng pháp luật về lao động xã hội, Trung tâm Trợ giúp pháp lý tỉnh Bình Định: Người dân đến tham gia hoạt động rất đông, và có nhiều thắc mắc không hiểu, cần được giải đáp. Người khuyết tật và người thân do tôi tư vấn đa phần là vấn đề thừa kế, về thủ tục làm giấy chứng nhận quyền sử dụng đất, tài sản trên đất… Hình thức tư vấn trực tiếp như thế này vô cùng hiệu quả và thiết thực với người khuyết tật.`,
+          "https://www.kymviet.com.vn/Kymviet%20Handicraft%20Products%20-%20Colourful%20puzzle%20pieces%2010.jpg",
+        descImage: "",
+        content: `
+✔️ Mang đậm bản sắc văn hóa: Mỗi món đồ thủ công handicraft đều là một tác phẩm nghệ thuật nhỏ, mang đậm dấu ấn văn hóa của quốc gia đó.
+
+✔️ Độc đáo và không thể tìm thấy ở bất kỳ đâu: Những món đồ thủ công(handicrafts) có yếu tố sáng tạo nên không làm hoàn toàn bằng tay như sản phẩm handmade. Vì vậy, khi mua một món quà thủ công, du khách không chỉ sở hữu một vật phẩm sáng tạo độc đáo mà còn mang về một phần linh hồn của đất nước đó.
+
+✔️ Giá trị bền vững: So với những món quà sản xuất hàng loạt, quà tặng du lịch làm thủ công handicraft thường có chất lượng tốt hơn và bền hơn. Nhiều món đồ còn có giá trị tăng theo thời gian, trở thành những món đồ cổ quý giá.
+
+✔️ Ý nghĩa của món quà: Tặng một món quà làm thủ công được bạn sưu tầm trong chuyến đi du lịch đồng nghĩa với việc bạn đang trao tặng một phần văn hóa của mình cho người khác. Điều này thể hiện sự trân trọng và tình cảm đặc biệt. `,
       },
       {
         id: 2,
@@ -163,7 +170,7 @@ Quà tặng kỷ yếu không chỉ là một món quà vật chất mà còn ma
       "Phục hồi chức năng và chăm sóc tại nhà cho người khuyết tật - Kinh nghiệm từ dự án Hòa nhập 1",
     description:
       "Trong khuôn khổ dự án Hòa nhập 1 – Hợp phần do Viện Nghiên cứu phát triển cộng đồng...",
-    dateTime: "8 phút trước",
+    dateTime: "8 ngày trước",
     day: "06/06/2024",
     subContent: [
       {
@@ -252,7 +259,7 @@ Quà tặng kỷ yếu không chỉ là một món quà vật chất mà còn ma
       "Ngày người khuyết tật Việt Nam 2024: Cùng hành động để người khuyết tật hoà nhập",
     description:
       "Nhằm thúc đẩy một xã hội tiếp cận và hoà nhập cho tất cả mọi người, chương trình...",
-    dateTime: "8 phút trước",
+    dateTime: "8 ngày trước",
     day: "06/06/2024",
     subContent: [
       {
@@ -311,7 +318,7 @@ Quà tặng kỷ yếu không chỉ là một món quà vật chất mà còn ma
       "Đấu tranh vì quyền đồng nghĩa với việc biến lời nói thành hành động",
     description:
       "Mình là một người phụ nữ mang trên mình khuyết tật về thể chất. Mình sinh ra và lớn lên tại Hà Nội, thủ đô của Việt Nam. Chuyện kể rằng, mình được sinh ra vào thời kỳ sau chiến tranh. ",
-    dateTime: "8 phút trước",
+    dateTime: "8 ngày trước",
     day: "06/06/2024",
     subContent: [
       {
@@ -369,7 +376,7 @@ Quà tặng kỷ yếu không chỉ là một món quà vật chất mà còn ma
     title: "Câu chuyện của Mai làm thúc đẩy nghề công tác xã hội tại Việt Nam",
     description:
       "Mình là một người phụ nữ mang trên mình khuyết tật về thể chất. Mình sinh ra và lớn lên tại Hà Nội, thủ đô của Việt Nam. Chuyện kể rằng, mình được sinh ra vào thời kỳ sau chiến tranh. ",
-    dateTime: "12 phút trước",
+    dateTime: "12 ngày trước",
     day: "06/06/2024",
     subContent: [
       {
@@ -399,7 +406,7 @@ Quà tặng kỷ yếu không chỉ là một món quà vật chất mà còn ma
       "Phục hồi chức năng và chăm sóc tại nhà cho người khuyết tật - Kinh nghiệm từ dự án Hòa nhập 1",
     description:
       "Trong khuôn khổ dự án Hòa nhập 1 – Hợp phần do Viện Nghiên cứu phát triển cộng đồng...",
-    dateTime: "8 phút trước",
+    dateTime: "8 ngày trước",
     day: "06/06/2024",
     subContent: [
       {
@@ -488,7 +495,7 @@ Quà tặng kỷ yếu không chỉ là một món quà vật chất mà còn ma
       "Ngày người khuyết tật Việt Nam 2024: Cùng hành động để người khuyết tật hoà nhập",
     description:
       "Nhằm thúc đẩy một xã hội tiếp cận và hoà nhập cho tất cả mọi người, chương trình...",
-    dateTime: "8 phút trước",
+    dateTime: "8 ngày trước",
     day: "06/06/2024",
     subContent: [
       {
