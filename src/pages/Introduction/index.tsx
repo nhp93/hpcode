@@ -44,20 +44,20 @@ const Introduction = () => {
         image={IntroductionImages.banner}
       />
       {/* content */}
-      <div className="md:pt-24 md:pb-[128px] md:px-40 mobile:px-5 mobile:pt-12 mobile:pb-16">
+      <div className="md:pt-24 md:pb-[128px] md:px-64 mobile:px-5 mobile:pt-12 mobile:pb-16">
         {introductions.map((introduction, index) => (
           <div
-            className={`mobile:flex mobile:flex-col-reverse mobile:gap-6 md:${introduction.flex} w-full md:gap-16 mb-16`}
+            className={`mobile:flex mobile:flex-col-reverse mobile:gap-6 md:${introduction.flex} w-full md:gap-20 mb-16`}
             key={index}
           >
             <div className="md:py-5 flex-1 text-justify">
               <h3 className="text-primary text-left uppercase mobile:text-[16px] md:text-lg font-semibold font-inter mb-3">
                 {introduction.title}
               </h3>
-              <h1 className="md:text-[36px] text-left mobile:text-[24px] font-semibold font-inter mb-3">
+              <h1 className="md:text-[30px] text-left mobile:text-[24px] font-semibold font-inter mb-3">
                 {introduction.subtitle}
               </h1>
-              <div className="mobile:text-[16px] md:text-xl font-inter">
+              <div className="mobile:text-[16px] md:text-[20px] font-inter">
                 {introduction.detail.map((paragraph, idx) => (
                   <p key={idx}>{paragraph}</p>
                 ))}

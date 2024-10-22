@@ -11,8 +11,8 @@ const About = (props: Props) => {
     <div className="w-full mt-16">
       <Banner image={AboutImages.banner} title="Liên hệ" />
       {/* content */}
-      <div className="md:py-32 md:px-40 flex md:flex-row mobile:flex-col mobile:px-5 mobile:py-12 md:gap-32 bg-gray-gray-2 mobile:gap-12">
-        <div className="md:py-12 gap-8 flex-1 flex flex-col">
+      <div className="md:py-32 md:px-40 flex md:flex-row mobile:flex-col mobile:px-5 mobile:py-12 md:gap-32 bg-gray-gray-2 mobile:gap-12 md:items-start">
+        <div className="md:pb-12 gap-8 flex-1 flex flex-col">
           <h1 className="font-bold font-inter text-5xl">Liên hệ</h1>
           <p className="font-inter text-[18px] text-justify">
             <p>
