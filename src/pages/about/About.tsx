@@ -20,20 +20,17 @@ const About = (props: Props) => {
               tôi sẽ phản hồi bạn sớm nhất có thể.
             </p>
             <br />
-            <p>
-              Ngoài ra, hãy liên hệ bằng thông tin bên dưới hoặc liên hệ với tôi
-              qua mạng xã hội.
-            </p>
+            <p>Ngoài ra, hãy liên hệ bằng thông tin bên dưới.</p>
           </p>
           <p className="flex mobile:gap-1 md:gap-8 md:flex-row mobile:flex-col">
             <a
-              href="mailto:emaildemo@gmail.com"
+              href="mailto:nghongphuc93@gmail.com"
               className=" font-inter text-primary font-bold"
             >
-              emaildemo@gmail.com
+              nghongphuc93@gmail.com
             </a>
-            <a href="tel:+(84)34 562 2456" className="font-bold">
-              +(84)34 562 2456
+            <a href="tel:+(84)98 352 3016" className="font-bold">
+              +(84)98 352 3016
             </a>
           </p>
         </div>

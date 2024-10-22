@@ -23,7 +23,7 @@ export const dataStores: Store[] = [
     title: "Việt 54",
     description:
       "Kênh bán hàng online các sản phẩm do người Việt Nam sản xuất. Với tâm niệm mong muốn góp phần tạo công ăn việc làm cho bà con cô bác ở các vùng miền khác nhau ở Việt Nam,",
-    quantity: 500,
+    quantity: 30,
     introduce:
       "Việt 54 - Viet54.vn là kênh bán hàng online các sản phẩm do người Việt Nam sản xuất. Với tâm niệm mong muốn góp phần tạo công ăn việc làm cho bà con cô bác ở các vùng miền khác nhau ở Việt Nam, từ các thành thị đến những vùng sâu vùng xa đầy khó khăn, Viet54 quyết tâm mang những hàng hóa chất lượng cao này của người Việt lan tỏa khắp Việt Nam và các nước trên Thế giới.",
     address:
@@ -42,7 +42,7 @@ export const dataStores: Store[] = [
     company: "SGF Handmade",
     description:
       "Sản phẩm thủ công được trang trí bằng cách thêu, vẽ hoặc ứng dụng nghệ thuật giấy napkin",
-    quantity: 9,
+    quantity: 28,
     introduce:
       "Sản phẩm thủ công được trang trí bằng cách thêu, vẽ hoặc ứng dụng nghệ thuật giấy napkin, nghệ nhân là người khuyết tật hoặc giáo viên dạy nghề cho người khuyết tật",
     address: "Số 40 Hoàng Hoa Thám, P. 10, Đà Lạt, Lâm Đồng",

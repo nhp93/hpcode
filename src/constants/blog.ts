@@ -21,7 +21,7 @@ export const dataBlogs: Blog[] = [
     id: 1,
     author: "ĐẶNG THÙY LINH",
     thumnail:
-      "https://s3-alpha-sig.figma.com/img/a607/9b55/1f48ea83e9a5598111e685d1ef699d30?Expires=1722211200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ncRGbMDQ33yISUuUTbT3RpNrmWN5WZzxt3qQBdsVxVZ4hWb5EFtN~f~Emg-F2XA1P9WqkT5g0vCupwV8UX-qLXLuy6KchFY8JHclCISWGHLc1HHcdpK7I3KONchSH3LVjJp5ROCawMjQS4QOccmhNgRxw-ydzTWq7~PxpaVT-RqGt5vWdNZjzNxRvJIDBaC20z2KQsMERpU93Ysy-c3T9y5QzD297Xs6ozwlUxZUWj5sHjkpCaLHXtN-gAGxrYJCSg4iPxpZaa7GjCG~2fl4yfYak34MJmlQadz85TOSHNpLfu2ZAhoKlvrEVJMRrFb9asMxYbzxkODUMcYTGmG7fw__",
+      "https://giadinh.mediacdn.vn/6JDnYG1u7Ulo8W6LkDM87YS4rtW4P7/Image/2012/08/t6_e4689.jpg",
     title:
       "Đấu tranh vì quyền đồng nghĩa với việc biến lời nói thành hành động",
     description:
@@ -115,13 +115,6 @@ Quà tặng kỷ yếu không chỉ là một món quà vật chất mà còn ma
 ✔️ Khóa học nâng cao kỹ năng: Đầu tư vào việc phát triển năng lực của nhân viên.
 
 ✔️ Sự kiện trải nghiệm văn hóa cộng đồng: Tổ chức các hoạt động giao lưu văn hóa, văn nghệ, gắn kết để tăng cường tinh thần đồng đội`,
-      },
-      {
-        id: 3,
-        imageUrl:
-          "https://i.pinimg.com/736x/42/9c/f2/429cf22bcfc7ec6e658fd617bda18b88.jpg",
-        descImage: "123",
-        content: "456",
       },
     ],
   },

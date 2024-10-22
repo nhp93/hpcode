@@ -90,9 +90,9 @@ function Header() {
           </ul>
         </div>
         <div className="flex-row flex items-center justify-center gap-x-[4px]">
-          <img src="/logo 2-3.png" alt="" className="w-12 object-cover" />
-          <div className="font-bold text-[30px] h-full text-[#0b7752] tracking-widest">
-            CIGNS
+          <img src="/favicon.png" alt="" className="w-12 object-cover" />
+          <div className="font-bold text-[30px] h-full text-[#0b1f77] tracking-widest">
+            ISN
           </div>
         </div>
         <nav className="navbar flex max-md:hidden">

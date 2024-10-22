@@ -22,9 +22,8 @@ export const products: Product[] = [
     title:
       "Tranh sơn dầu - Mùa xuân trên vùng cao - Sản phẩm của người khuyết tật",
     price: 900000,
-    isFavorite: true,
     imgUrl: "/images/tranh/mxtvc.png",
-    link: "https://viet54.vn/product/tranh-son-dau-mua-xuan-tren-vung-cao-san-pham-cua-nguoi-khuyet-tat-p1229681",
+    link: "https://viet54.vn/collection/product/nha-may-man-c44062?collectionPage=%5B1%5D",
   },
   {
     id: 2,
@@ -32,14 +31,15 @@ export const products: Product[] = [
     price: 1050000,
     title: "Tranh sơn dầu - Thảo nguyên xanh - Sản phẩm của người khuyết tật",
     imgUrl: "/images/tranh/tnx.png",
+    link: "https://viet54.vn/collection/product/nha-may-man-c44062?collectionPage=%5B1%5D",
   },
   {
     id: 3,
     storeId: 1,
     price: 1600000,
-    isFavorite: true,
     title: "Tranh sơn dầu - Ngôi nhà hạnh phúc - Sản phẩm của người khuyết tật",
     imgUrl: "/images/tranh/nnhp.png",
+    link: "https://viet54.vn/collection/product/nha-may-man-c44062?collectionPage=%5B1%5D",
   },
   {
     id: 4,
@@ -48,6 +48,7 @@ export const products: Product[] = [
     title:
       "Tranh sơn dầu - Thuận buồm xuôi gió - Sản phẩm của người khuyết tật",
     imgUrl: "/images/tranh/tbxg.png",
+    link: "https://viet54.vn/collection/product/nha-may-man-c44062?collectionPage=%5B1%5D",
   },
   {
     id: 8,
@@ -55,6 +56,7 @@ export const products: Product[] = [
     price: 130000,
     title: "Tranh sơn dầu để bàn 1 - Sản phẩm của người khuyết tật",
     imgUrl: "/images/tranh/1.png",
+    link: "https://viet54.vn/collection/product/nha-may-man-c44062?collectionPage=%5B1%5D",
   },
   {
     id: 9,
@@ -62,6 +64,7 @@ export const products: Product[] = [
     price: 130000,
     title: "Tranh sơn dầu để bàn 2 - Sản phẩm của người khuyết tật",
     imgUrl: "/images/tranh/2.png",
+    link: "https://viet54.vn/collection/product/nha-may-man-c44062?collectionPage=%5B1%5D",
   },
   {
     id: 10,
@@ -69,6 +72,7 @@ export const products: Product[] = [
     price: 130000,
     title: "Tranh sơn dầu để bàn 3 - Sản phẩm của người khuyết tật",
     imgUrl: "/images/tranh/3.png",
+    link: "https://viet54.vn/collection/product/nha-may-man-c44062?collectionPage=%5B1%5D",
   },
   {
     id: 11,
@@ -76,6 +80,7 @@ export const products: Product[] = [
     price: 130000,
     title: "Tranh sơn dầu để bàn 4 - Sản phẩm của người khuyết tật",
     imgUrl: "/images/tranh/4.png",
+    link: "https://viet54.vn/collection/product/nha-may-man-c44062?collectionPage=%5B1%5D",
   },
   {
     id: 12,
@@ -83,6 +88,7 @@ export const products: Product[] = [
     price: 130000,
     title: "Tranh sơn dầu để bàn 5 - Sản phẩm của người khuyết tật",
     imgUrl: "/images/tranh/5.png",
+    link: "https://viet54.vn/collection/product/nha-may-man-c44062?collectionPage=%5B1%5D",
   },
   {
     id: 13,
@@ -90,6 +96,7 @@ export const products: Product[] = [
     price: 130000,
     title: "Tranh sơn dầu để bàn 6 - Sản phẩm của người khuyết tật",
     imgUrl: "/images/tranh/6.png",
+    link: "https://viet54.vn/collection/product/nha-may-man-c44062?collectionPage=%5B1%5D",
   },
   {
     id: 14,
@@ -97,6 +104,7 @@ export const products: Product[] = [
     price: 130000,
     title: "Tranh sơn dầu để bàn 7 - Sản phẩm của người khuyết tật",
     imgUrl: "/images/tranh/7.png",
+    link: "https://viet54.vn/collection/product/nha-may-man-c44062?collectionPage=%5B1%5D",
   },
   {
     id: 15,
@@ -104,6 +112,7 @@ export const products: Product[] = [
     price: 130000,
     title: "Tranh sơn dầu để bàn 8 - Sản phẩm của người khuyết tật",
     imgUrl: "/images/tranh/8.png",
+    link: "https://viet54.vn/collection/product/nha-may-man-c44062?collectionPage=%5B1%5D",
   },
   {
     id: 16,
@@ -111,6 +120,7 @@ export const products: Product[] = [
     price: 130000,
     title: "Tranh sơn dầu để bàn 9 - Sản phẩm của người khuyết tật",
     imgUrl: "/images/tranh/9.png",
+    link: "https://viet54.vn/collection/product/nha-may-man-c44062?collectionPage=%5B1%5D",
   },
   {
     id: 17,
@@ -118,6 +128,7 @@ export const products: Product[] = [
     price: 130000,
     title: "Tranh sơn dầu để bàn 10 - Sản phẩm của người khuyết tật",
     imgUrl: "/images/tranh/10.png",
+    link: "https://viet54.vn/collection/product/nha-may-man-c44062?collectionPage=%5B1%5D",
   },
   {
     id: 18,
@@ -125,6 +136,7 @@ export const products: Product[] = [
     price: 40000,
     title: "Thú Nhồi Bông Con Cá",
     imgUrl: "/images/tranh/ca.png",
+    link: "https://viet54.vn/collection/product/nha-may-man-c44062?collectionPage=%5B1%5D",
   },
   {
     id: 19,
@@ -132,6 +144,7 @@ export const products: Product[] = [
     price: 60000,
     title: "Thú Nhồi Bông Con Tế Giác",
     imgUrl: "/images/tranh/tegiac.png",
+    link: "https://viet54.vn/collection/product/nha-may-man-c44062?collectionPage=%5B1%5D",
   },
 
   {
@@ -140,6 +153,7 @@ export const products: Product[] = [
     price: 40000,
     title: "Thú Nhồi Bông Con Dê",
     imgUrl: "/images/tranh/de.png",
+    link: "https://viet54.vn/collection/product/nha-may-man-c44062?collectionPage=%5B1%5D",
   },
 
   {
@@ -148,6 +162,7 @@ export const products: Product[] = [
     price: 50000,
     title: "Thú Nhồi Bông Con Ngựa",
     imgUrl: "/images/tranh/ngua.png",
+    link: "https://viet54.vn/collection/product/nha-may-man-c44062?collectionPage=%5B1%5D",
   },
   {
     id: 22,
@@ -155,6 +170,7 @@ export const products: Product[] = [
     price: 25000,
     title: "Móc Khoá Con Cá",
     imgUrl: "/images/tranh/mkconca.png",
+    link: "https://viet54.vn/collection/product/nha-may-man-c44062?collectionPage=%5B1%5D",
   },
   {
     id: 23,
@@ -162,6 +178,7 @@ export const products: Product[] = [
     price: 25000,
     title: "Móc Khoá Con Heo",
     imgUrl: "/images/tranh/heo.png",
+    link: "https://viet54.vn/collection/product/nha-may-man-c44062?collectionPage=%5B1%5D",
   },
   {
     id: 24,
@@ -169,6 +186,7 @@ export const products: Product[] = [
     price: 25000,
     title: "Móc Khoá Con Gà",
     imgUrl: "/images/tranh/mkconga.png",
+    link: "https://viet54.vn/collection/product/nha-may-man-c44062?collectionPage=%5B1%5D",
   },
   {
     id: 25,
@@ -176,6 +194,7 @@ export const products: Product[] = [
     price: 25000,
     title: "Móc Khoá Con Voi",
     imgUrl: "/images/tranh/voi.png",
+    link: "https://viet54.vn/collection/product/nha-may-man-c44062?collectionPage=%5B1%5D",
   },
   {
     id: 26,
@@ -183,6 +202,7 @@ export const products: Product[] = [
     price: 25000,
     title: "Móc Khoá Con Cú Mèo",
     imgUrl: "/images/tranh/mkcumeo.png",
+    link: "https://viet54.vn/collection/product/nha-may-man-c44062?collectionPage=%5B1%5D",
   },
   {
     id: 27,
@@ -190,6 +210,7 @@ export const products: Product[] = [
     price: 190000,
     title: "Ba Lô Chim Cánh Cụt",
     imgUrl: "/images/tranh/blcanhcut.png",
+    link: "https://viet54.vn/collection/product/nha-may-man-c44062?collectionPage=%5B1%5D",
   },
   {
     id: 28,
@@ -197,6 +218,7 @@ export const products: Product[] = [
     price: 600000,
     title: "Tranh sơn dầu - Góc quê - Sản phẩm của người khuyết tật",
     imgUrl: "/images/tranh/gocque.png",
+    link: "https://viet54.vn/collection/product/nha-may-man-c44062?collectionPage=%5B1%5D",
   },
   {
     id: 29,
@@ -204,6 +226,7 @@ export const products: Product[] = [
     price: 700000,
     title: "Tranh sơn dầu - Góc phố - Sản phẩm của người khuyết tật",
     imgUrl: "/images/tranh/gocpho.png",
+    link: "https://viet54.vn/collection/product/nha-may-man-c44062?collectionPage=%5B1%5D",
   },
   {
     id: 30,
@@ -211,6 +234,7 @@ export const products: Product[] = [
     price: 1400000,
     title: "Tranh sơn dầu - Đường xưa - Sản phẩm của người khuyết tật",
     imgUrl: "/images/tranh/duongxua.png",
+    link: "https://viet54.vn/collection/product/nha-may-man-c44062?collectionPage=%5B1%5D",
   },
   {
     id: 31,
@@ -218,6 +242,7 @@ export const products: Product[] = [
     price: 1600000,
     title: "Tranh sơn dầu - Đường hoa - Sản phẩm của người khuyết tật",
     imgUrl: "/images/tranh/duonghoa.png",
+    link: "https://viet54.vn/collection/product/nha-may-man-c44062?collectionPage=%5B1%5D",
   },
 
   {
@@ -226,14 +251,15 @@ export const products: Product[] = [
     price: 0,
     title: "Ví thêu tay handmade TXV010",
     imgUrl: "/images/SGF/010.jpg",
+    link: "https://handmade.sgf.org.vn/",
   },
   {
     id: 2,
     storeId: 2,
     price: 0,
-    isFavorite: true,
     title: "Ví thêu tay handmade TXV010",
     imgUrl: "/images/SGF/018.jpg",
+    link: "https://handmade.sgf.org.vn/",
   },
   {
     id: 3,
@@ -241,6 +267,7 @@ export const products: Product[] = [
     price: 0,
     title: "Ví thêu tay handmade TXV010",
     imgUrl: "/images/SGF/025.jpg",
+    link: "https://handmade.sgf.org.vn/",
   },
   {
     id: 4,
@@ -248,6 +275,7 @@ export const products: Product[] = [
     price: 0,
     title: "Ví thêu tay handmade TXV010",
     imgUrl: "/images/SGF/038.jpg",
+    link: "https://handmade.sgf.org.vn/",
   },
   {
     id: 5,
@@ -255,6 +283,7 @@ export const products: Product[] = [
     price: 0,
     title: "Ví thêu tay handmade TXV010",
     imgUrl: "/images/SGF/015.jpg",
+    link: "https://handmade.sgf.org.vn/",
   },
   {
     id: 6,
@@ -262,6 +291,7 @@ export const products: Product[] = [
     price: 0,
     title: "Ví thêu tay handmade TXV010",
     imgUrl: "/images/SGF/037.jpg",
+    link: "https://handmade.sgf.org.vn/",
   },
   {
     id: 7,
@@ -269,6 +299,7 @@ export const products: Product[] = [
     price: 0,
     title: "Ví thêu tay handmade TXV010",
     imgUrl: "/images/SGF/039.jpg",
+    link: "https://handmade.sgf.org.vn/",
   },
   {
     id: 8,
@@ -276,6 +307,7 @@ export const products: Product[] = [
     price: 0,
     title: "Ví thêu tay handmade TXV010",
     imgUrl: "/images/SGF/041.jpg",
+    link: "https://handmade.sgf.org.vn/",
   },
   {
     id: 10,
@@ -283,6 +315,7 @@ export const products: Product[] = [
     price: 0,
     title: "Hộp đựng giấy ăn hình chữ nhật SGF HDGL026",
     imgUrl: "/images/SGF/giay1.jpg",
+    link: "https://handmade.sgf.org.vn/",
   },
   {
     id: 11,
@@ -290,6 +323,7 @@ export const products: Product[] = [
     price: 0,
     title: "Hộp đựng giấy ăn hình chữ nhật SGF HDGL021",
     imgUrl: "/images/SGF/giay2.jpg",
+    link: "https://handmade.sgf.org.vn/",
   },
   {
     id: 12,
@@ -297,6 +331,7 @@ export const products: Product[] = [
     price: 0,
     title: "Hộp đựng giấy ăn hình chữ nhật SGF HDGL018",
     imgUrl: "/images/SGF/giay3.jpg",
+    link: "https://handmade.sgf.org.vn/",
   },
   {
     id: 13,
@@ -304,6 +339,7 @@ export const products: Product[] = [
     price: 0,
     title: "Hộp đựng giấy ăn hình chữ nhật SGF HDGL019",
     imgUrl: "/images/SGF/giay4.jpg",
+    link: "https://handmade.sgf.org.vn/",
   },
   {
     id: 14,
@@ -311,6 +347,7 @@ export const products: Product[] = [
     price: 0,
     title: "Set lót ly handmade SGF MLL 006",
     imgUrl: "/images/SGF/ly1.jpg",
+    link: "https://handmade.sgf.org.vn/",
   },
   {
     id: 15,
@@ -318,6 +355,7 @@ export const products: Product[] = [
     price: 0,
     title: "Set lót ly handmade SGF MLL 005",
     imgUrl: "/images/SGF/ly2.jpg",
+    link: "https://handmade.sgf.org.vn/",
   },
   {
     id: 16,
@@ -325,6 +363,7 @@ export const products: Product[] = [
     price: 0,
     title: "Set lót ly handmade chủ đề cafe",
     imgUrl: "/images/SGF/ly3.jpg",
+    link: "https://handmade.sgf.org.vn/",
   },
   {
     id: 17,
@@ -332,6 +371,7 @@ export const products: Product[] = [
     price: 0,
     title: "Set lót ly handmade chủ đề hoa quả",
     imgUrl: "/images/SGF/ly4.jpg",
+    link: "https://handmade.sgf.org.vn/",
   },
 
   {
@@ -340,7 +380,7 @@ export const products: Product[] = [
     price: 415000,
     title: "Túi Vải & Ví Họa Tiết Truyền Thống, Đi Làm, Đi Chơi, Làm Quà Tặng",
     imgUrl: "/images/Kym/tui1.jfif",
-    link: "https://www.kymviet.com.vn/products/tui-vai-vi-hoa-tiet-truyen-thong-di-lam-di-choi-lam-qua-tang/2912213000010900005",
+    link: "https://www.kymviet.com.vn/",
   },
 
   {
@@ -349,6 +389,7 @@ export const products: Product[] = [
     price: 415000,
     title: "Túi Xách Hoạ Tiết Rằn Ri, Đựng Laptop, Đi Làm, Đi Chơi",
     imgUrl: "/images/Kym/tui2.jfif",
+    link: "https://www.kymviet.com.vn/",
   },
   {
     id: 3,
@@ -356,6 +397,7 @@ export const products: Product[] = [
     price: 299000,
     title: "Túi Đeo Vai Họa Tiết Truyền Thống - Thủ Công, Vải In Họa Tiết",
     imgUrl: "/images/Kym/tui3.jfif",
+    link: "https://www.kymviet.com.vn/",
   },
   {
     id: 4,
@@ -363,6 +405,7 @@ export const products: Product[] = [
     price: 299000,
     title: "Túi Đeo Vai Họa Tiết Đi Biển, Đi Chơi, Làm Quà Tặng",
     imgUrl: "/images/Kym/yui4.jfif",
+    link: "https://www.kymviet.com.vn/",
   },
   {
     id: 5,
@@ -370,6 +413,7 @@ export const products: Product[] = [
     price: 900000,
     title: "Trâu Mục Đồng - Thủ Công Nhồi Bông, Vải Thổ Cẩm Truyền Thống",
     imgUrl: "/images/Kym/trau.jfif",
+    link: "https://www.kymviet.com.vn/",
   },
   {
     id: 6,
@@ -377,6 +421,7 @@ export const products: Product[] = [
     price: 900000,
     title: "Voi Rừng Xanh - Thủ Công Nhồi Bông, Vải Thổ Cẩm Truyền Thống",
     imgUrl: "/images/Kym/voi.jfif",
+    link: "https://www.kymviet.com.vn/",
   },
   {
     id: 7,
@@ -384,6 +429,7 @@ export const products: Product[] = [
     price: 750000,
     title: "Chuột Trạng Nguyên - Thủ Công Nhồi Bông, Vải Gấm Dân Tộc",
     imgUrl: "/images/Kym/chuot.jfif",
+    link: "https://www.kymviet.com.vn/",
   },
   {
     id: 8,
@@ -391,6 +437,7 @@ export const products: Product[] = [
     price: 750000,
     title: "Lợn Đông Hồ - Thủ Công Nhồi Bông, Vải Thổ Cẩm Truyền Thống",
     imgUrl: "/images/Kym/lon.jfif",
+    link: "https://www.kymviet.com.vn/",
   },
   {
     id: 9,
@@ -398,6 +445,7 @@ export const products: Product[] = [
     price: 100000,
     title: "Cá Voi, Size Nhỏ - Thủ Công Nhồi Bông, Vải Cotton",
     imgUrl: "/images/Kym/cavoi.jfif",
+    link: "https://www.kymviet.com.vn/",
   },
   {
     id: 10,
@@ -405,6 +453,7 @@ export const products: Product[] = [
     price: 100000,
     title: "Cá Heo - Thủ Công Nhồi Bông, Vải Cotton",
     imgUrl: "/images/Kym/caheo.jfif",
+    link: "https://www.kymviet.com.vn/",
   },
   {
     id: 11,
@@ -412,6 +461,7 @@ export const products: Product[] = [
     price: 150000,
     title: "Cá Mập - Thủ Công Nhồi Bông, Vải Cotton",
     imgUrl: "/images/Kym/camap.jfif",
+    link: "https://www.kymviet.com.vn/",
   },
   {
     id: 12,
@@ -419,6 +469,7 @@ export const products: Product[] = [
     price: 90000,
     title: "Cá Ngựa - Thủ Công Nhồi Bông, Vải Cotton",
     imgUrl: "/images/Kym/cangua.png",
+    link: "https://www.kymviet.com.vn/",
   },
   {
     id: 13,
@@ -426,6 +477,7 @@ export const products: Product[] = [
     price: 399000,
     title: "Đồng Hồ Gỗ Rồng Việt - 2024 Giáp Thìn (Để Bàn)",
     imgUrl: "/images/Kym/deban.jfif",
+    link: "https://www.kymviet.com.vn/",
   },
   {
     id: 14,
@@ -433,6 +485,7 @@ export const products: Product[] = [
     price: 399000,
     title: "Đồng Hồ Gỗ Rồng Việt - 2024 Giáp Thìn (Treo Tường)",
     imgUrl: "/images/Kym/treo tuong.jfif",
+    link: "https://www.kymviet.com.vn/",
   },
   {
     id: 15,
@@ -440,6 +493,7 @@ export const products: Product[] = [
     price: 245000,
     title: "Gối Trái Tim - Thủ Công Nhồi Bông, Vải Cotton",
     imgUrl: "/images/Kym/goi.jfif",
+    link: "https://www.kymviet.com.vn/",
   },
   {
     id: 16,
@@ -447,5 +501,6 @@ export const products: Product[] = [
     price: 210000,
     title: "Gối Cổ Mèo - Thủ Công Nhồi Bông, Vải Cotton",
     imgUrl: "/images/Kym/goico.jfif",
+    link: "https://www.kymviet.com.vn/",
   },
 ];

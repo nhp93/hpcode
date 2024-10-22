@@ -5,6 +5,9 @@ import "./Home.css";
 
 import Slider, { Settings } from "react-slick";
 import { actions, events, news } from "@/data";
+import { dataEvents } from "@/constants/events";
+import { Link } from "react-router-dom";
+import { dataBlogs } from "@/constants/blog";
 
 type Props = {};
 
@@ -40,7 +43,7 @@ const Home = (props: Props) => {
       );
     },
     dots: true,
-    slidesToShow: 1,
+    slidesToShow: 2,
     slidesToScroll: 1,
     arrows: false,
     infinite: true,
@@ -81,7 +84,7 @@ const Home = (props: Props) => {
         <div className="banner lg:p-[128px] lg:pt-[80px] mobile:px-5 mobile:pt-12 mobile:pb-[72.4px]">
           <div className=" flex flex-col justify-center items-center pt-20 px-5">
             <div className="text-2xl font-bold mobile:font-semibold text-center">
-              Câu lạc bộ người khuyết tật
+              Câu lạc bộ hỗ trợ người khuyết tật
             </div>
             <div className="text-xl py-2 text-center">
               Tạo ra sự nhận thức và hỗ trợ cho cộng đồng người khuyết tật
@@ -131,14 +134,15 @@ const Home = (props: Props) => {
           <div id="slider-home-event">
             <div className="relative">
               <Slider {...sliderEventSetting} ref={slider}>
-                {events.map((event, index) => {
+                {dataEvents.slice(0, 6).map((event, index) => {
                   return (
-                    <div
+                    <Link
+                      to={`/events/${event.id}`}
                       key={index}
-                      className="relative p-2 bg-white rounded-2xl "
+                      className="relative !w-full p-2 bg-white rounded-2xl"
                     >
                       <img
-                        src={event.img}
+                        src={event.imgUrl}
                         alt=""
                         className="w-full h-full object-cover rounded-xl mobile:h-[468px]"
                       />
@@ -147,10 +151,10 @@ const Home = (props: Props) => {
                           {event.title}
                         </div>
                         <div className="text-[12px] font-normal ">
-                          {event.subtitle}
+                          {event.description}
                         </div>
                       </div>
-                    </div>
+                    </Link>
                   );
                 })}
               </Slider>
@@ -161,26 +165,27 @@ const Home = (props: Props) => {
           <div id="slider-home-news">
             <div className="relative">
               <Slider {...sliderEventSetting} ref={slider}>
-                {news.map((newspaper, index) => {
+                {dataBlogs.slice(0, 6).map((newspaper, index) => {
                   return (
-                    <div
+                    <Link
+                      to={`/blog/${newspaper.id}`}
                       key={index}
-                      className="relative p-2 md:w-[60%] bg-white rounded-2xl"
+                      className="relative !w-full p-2 bg-white rounded-2xl"
                     >
                       <img
-                        src={newspaper.img}
+                        src={newspaper.thumnail}
                         alt=""
-                        className="w-full md:h-auto object-cover rounded-xl mobile:h-[468px]"
+                        className="w-full h-full object-cover rounded-xl mobile:h-[468px]"
                       />
                       <div className="absolute bottom-4 left-4 right-4  height-fit text-white uppercase bg-[rgba(0,0,0,0.65)] p-4 rounded-lg">
                         <div className="text-[14px] font-medium mb-2">
                           {newspaper.title}
                         </div>
                         <div className="text-[12px] font-normal">
-                          {newspaper.subtitle}
+                          {newspaper.description}
                         </div>
                       </div>
-                    </div>
+                    </Link>
                   );
                 })}
               </Slider>
