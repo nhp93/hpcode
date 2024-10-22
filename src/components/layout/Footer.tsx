@@ -25,7 +25,7 @@ function Footer() {
           <p className="md:font-bold md:text-right">
             © 2024 Cau lac bo nguoi khuyet tat
           </p>
-          <p className="md:font-bold ">Made by Nguyen Huy Hoang</p>
+          <p className="md:font-bold ">Made by Nguyen Hong Phuc</p>
         </div>
       </div>
     </div>
