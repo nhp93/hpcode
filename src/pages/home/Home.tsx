@@ -83,11 +83,15 @@ const Home = (props: Props) => {
       <div>
         <div className="banner lg:p-[128px] lg:pt-[80px] mobile:px-5 mobile:pt-12 mobile:pb-[72.4px]">
           <div className=" flex flex-col justify-center items-center pt-20 px-5">
-            <div className="text-2xl font-bold mobile:font-semibold text-center">
-              Câu lạc bộ hỗ trợ người khuyết tật
+            <div className="text-2xl md:font-bold mobile:font-heebo mobile:font-weight: 900 text-center ">
+              ISN
+            </div>
+            <div className="md:text-2xl mobile:text-[32px] md:font-bold mobile:font-heebo mobile:font-weight: 900 text-center ">
+              Inclusive Sales Network
             </div>
             <div className="text-xl py-2 text-center">
-              Tạo ra sự nhận thức và hỗ trợ cho cộng đồng người khuyết tật
+              Website quảng bá và giới thiệu sản phẩm thủ công được tạo nên từ
+              bàn tay người khuyết tật.
             </div>
           </div>
           <div className="flex justify-center mt-10">
@@ -102,10 +106,13 @@ const Home = (props: Props) => {
           title="Mục tiêu"
           additionalClassName="md:px-[224px] mobile:px-5"
         >
-          <div className="text-center text-[21px]">
-            Mục tiêu của chúng tôi là tạo ra một nền tảng trực tuyến để quảng bá
-            và tiếp thị các sản phẩm của người khuyết tật, giúp họ tiếp cận
-            nhiều khách hàng hơn và tạo ra cơ hội kinh doanh tích cực.
+          <div className="text-center md:text-[21px] mobile:text-[18px] md:px-[200px]">
+            Mục tiêu của chúng tôi là tạo ra một nền tảng trực tuyến giúp kết
+            nối và là trung gian tìm mua những sản phẩm thủ công tinh xảo do
+            người khuyết tật tạo ra, để giúp họ có thêm nguồn thu nhập. Website
+            không chỉ mang đến cơ hội kinh tế, mà còn tôn vinh giá trị lao động
+            và tài năng của người khuyết tật, giúp họ tiếp cận cộng đồng một
+            cách công bằng và tự tin hơn.
           </div>
         </Section>
         <Section title="Hoạt động">

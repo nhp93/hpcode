@@ -18,6 +18,7 @@ module.exports = {
       },
       fontFamily: {
         inter: ["Inter", "sans-serif"],
+        heebo: ["Gabarito", "serif"],
       },
       screens: {
         mobile: "320px",

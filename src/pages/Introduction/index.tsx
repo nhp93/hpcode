@@ -40,7 +40,7 @@ const Introduction = () => {
     <div className="w-screen mt-16">
       {/* header */}
       <Banner
-        title="Giới thiệu về câu lạc bộ của chúng tôi"
+        title="Giới thiệu về website của chúng tôi"
         image={IntroductionImages.banner}
       />
       {/* content */}
