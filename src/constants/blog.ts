@@ -32,7 +32,7 @@ export const dataBlogs: Blog[] = [
       {
         id: 1,
         imageUrl:
-          "https://s3-alpha-sig.figma.com/img/b0d8/d56f/c1806f8883cbd4c5998f024877c5c3dd?Expires=1724025600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=chBwMqRwQ3QcpdnOWqGo4bNLveTN7k02KhlgBxXquDyqgGd2RnuQSM87y27KtbiV1lV0wq7-BjXdbdgVjTjF-YcYHFQTEe4dQEBM52gokeqSE4Iy4rfHeRKGQgEmK8IepgDpG1dYXZcc0b6lBWogMzMclZ57LhkNgxgQkCQ9FbxK~MGQZSiXveT-JTgBmAL~UhguyGCeYkO4NKdMeMd4JrtZYfyx0eWLfcm~6vzDGesFQvBdcACLEX4WXNjzhMKBHM-NMAchV7psP4353qnJyxdgj0s19ttftwtY~wwX~ZMwOWljsl4AEiCKROO~SpWREe5VIPrWXGzfbY3XZxZwMA__",
+          "https://th.bing.com/th/id/OIP.u0zKHmBGLC7Ob34dKtckxQHaFj?rs=1&pid=ImgDetMain",
         descImage:
           "Đoàn công tác đang chia sẻ về các chính sách pháp luật và hoà nhập khuyết tật",
         content: `Ngày 03-04/5/2024, Viện ACDC phối hợp cùng Sở Lao động – Thương binh và Xã hội, Trung tâm Trợ giúp pháp lý tỉnh và các tổ chức hỗ trợ người khuyết tật tỉnh Bình Định tổ chức tư vấn pháp luật và hoà nhập xã hội cho người khuyết tật huyện Tây Sơn. Sự kiện được diễn ra trong khuôn khổ dự án Hỗ trợ cải thiện chất lượng sống của người khuyết tật tại các tỉnh bị phun rải nặng chất da cam tại tỉnh Bình Định.\nĐoàn tư vấn pháp luật và hỗ trợ hoà nhập có sự tham gia của bà Vũ Thị Tuyết Mai – Giám đốc dự án; bà Lê Hải Yến, Trưởng phòng Luật Viện ACDC; bà Nguyễn Thị Thúy Hằng, đại diện Sở Lao động – Thương binh và Xã hội tỉnh; ông Lê Thành Sơn – Phó Giám đốc Trung tâm Trợ giúp pháp lý nhà nước tỉnh; ông Bùi Trung Dũng – Phó Chủ tịch Hội Bảo trợ người khuyết tật và Bảo vệ quyền trẻ em tỉnh; bà Nguyễn Thị Kim Vân – Phó Giám đốc Trung tâm giáo dục nghề nghiệp tỉnh; bà Trần Thị Thúy Nga – Phó Giám đốc Phòng Giao dịch Ngân hàng Chính sách xã hội huyện Tây Sơn.\nMục tiêu của hoạt động nhằm nâng cao hiểu biết cho người khuyết tật hoặc gia đình người khuyết tật về các chính sách, pháp luật hiện hành liên quan đến người khuyết tật; giúp tư vấn, giải đáp trực tiếp các câu hỏi, vụ việc liên quan đến pháp luật như cho người khuyết tật hoặc gia đình của người khuyết tật có nhu cầu.\nChia sẻ tại buổi tư vấn, ông Nguyễn Hữu Vinh, Trưởng phòng pháp luật về lao động xã hội, Trung tâm Trợ giúp pháp lý tỉnh Bình Định: Người dân đến tham gia hoạt động rất đông, và có nhiều thắc mắc không hiểu, cần được giải đáp. Người khuyết tật và người thân do tôi tư vấn đa phần là vấn đề thừa kế, về thủ tục làm giấy chứng nhận quyền sử dụng đất, tài sản trên đất… Hình thức tư vấn trực tiếp như thế này vô cùng hiệu quả và thiết thực với người khuyết tật.`,
@@ -44,15 +44,6 @@ export const dataBlogs: Blog[] = [
         descImage:
           "Đoàn công tác đang chia sẻ về các chính sách pháp luật và hoà nhập khuyết tật",
         content: `Chia sẻ sau khi được tư vấn, chị N.T.N.L, người nhà của người khuyết tật tại xã Bình Nghi cho biết: Tôi hôm nay đến với mong muốn giải đáp câu hỏi về tăng trợ cấp cho người khuyết tật. Sau khi được tư vấn, tôi hiểu rõ được mức trợ cấp hiện tại là mức cao nhất của tỉnh. Tôi rất hài lòng với cách tư vấn tận tình và cặn kẽ của đoàn.\n\nÔng V.T, người khuyết tật xã Bình Hoà nói: Từ lâu, tôi đã băn khoăn về quyền thừa kế của mình nhưng không biết hỏi ai. Giờ được đoàn tư vấn quy trình thực hiện, tôi sẽ làm theo hướng dẫn và biết tìm đến đâu để được hỗ trợ.\nChị T.T.C, người khuyết tật vui mừng chia sẻ: Đây là lần đầu tiên tôi được tham gia một sự kiện như thế này. Buổi tư vấn vô cùng bổ ích vì được giải đáp từng vấn đề riêng của từng người. Tôi mong có nhiều hơn nữa hoạt động như thế này, vì người khuyết tật chúng tôi tiếp cận thông tin rất hạn chế. Tôi vô cùng biết ơn đoàn tư vấn đã đến tận nơi, hỗ trợ tận tình cho chúng tôi.\nHoạt động nằm trong khuôn khổ dự án “Hỗ trợ cải thiện chất lượng sống của người khuyết tật tại các tỉnh bị phun rải nặng chất da cam” (gọi tắt là Dự án Hoà nhập II) tại tỉnh Bình Định và Kon Tum giai đoạn 2023 – 2026, do Cơ quan Phát triển Quốc tế Hoa Kỳ (USAID) tài trợ, Trung tâm hành động quốc gia khắc phục hậu quả chất độc hóa học và môi trường (NACCET) thuộc Bộ Quốc phòng làm Chủ dự án. Viện ACDC là một trong các đối tác triển khai các hoạt động dưới sự quản lý của Humanity & Inclusion (HI).`,
-      },
-      {
-        id: 3,
-        imageUrl:
-          "https://s3-alpha-sig.figma.com/img/433c/42af/8f00633cf3ad3948ac1fd4b1f9b48b2e?Expires=1724025600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=HqBy209rek5vAr7PipdOUY5dxsElHDF7Kg~aMDOOS4SahN-~jPkfKg7g9a6ygsAcoUMkjdjt9P-pqc5csMXg5ZZG5l7820KpXRcin9T~dp-FWVnrVwluPHW1zt-eVhk7DruLB2Lw1XayV80NB8HkldZ~oO7G30rKx7OJaEe1qeBZs9OtNmjxLQ8KX1Bycz3IwyFPfPDAgM4TZ~EvBRa32KhJ0URMx9IselOYdM9AIgW~Nbb6rktwUftFw8hhSV~LIEsC2rogqPTCsljaphMXd6WLYwTsyo3SSfst-aML8yz~PHeNKjH0euT6RoVfBYTnAq5extgKypQsEmgAkBdvJQ__",
-        descImage:
-          "Đoàn công tác đang chia sẻ về các chính sách pháp luật và hoà nhập khuyết tật",
-        content:
-          "Ngày 03-04/5/2024, Viện ACDC phối hợp cùng Sở Lao động – Thương binh và Xã hội, Trung tâm Trợ giúp pháp lý tỉnh và các tổ chức hỗ trợ người khuyết tật tỉnh Bình Định tổ chức tư vấn pháp luật và hoà nhập xã hội cho người khuyết tật huyện Tây Sơn. Sự kiện được diễn ra trong khuôn khổ dự án Hỗ trợ cải thiện chất lượng sống của người khuyết tật tại các tỉnh bị phun rải nặng chất da cam tại tỉnh Bình Định.\nĐoàn tư vấn pháp luật và hỗ trợ hoà nhập có sự tham gia của bà Vũ Thị Tuyết Mai – Giám đốc dự án; bà Lê Hải Yến, Trưởng phòng Luật Viện ACDC; bà Nguyễn Thị Thúy Hằng, đại diện Sở Lao động – Thương binh và Xã hội tỉnh; ông Lê Thành Sơn – Phó Giám đốc Trung tâm Trợ giúp pháp lý nhà nước tỉnh; ông Bùi Trung Dũng – Phó Chủ tịch Hội Bảo trợ người khuyết tật và Bảo vệ quyền trẻ em tỉnh; bà Nguyễn Thị Kim Vân – Phó Giám đốc Trung tâm giáo dục nghề nghiệp tỉnh; bà Trần Thị Thúy Nga – Phó Giám đốc Phòng Giao dịch Ngân hàng Chính sách xã hội huyện Tây Sơn.",
       },
     ],
   },
@@ -156,23 +147,26 @@ Quà tặng kỷ yếu không chỉ là một món quà vật chất mà còn ma
   },
   {
     id: 4,
-    author: "TRỊNH THANH THANH",
+    author: "user04",
     thumnail:
-      "https://s3-alpha-sig.figma.com/img/40de/27d5/9da5bd41c4ea9b4847cbf646f43d147f?Expires=1722211200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=XMySwCiju26Bqu1m38CAWzvpe5ilKBpzEO82RT2HlSmhNKnxaqNRHQf0twXMFkPizQIEHGsof0pFAa9Unu8h2u9GZEjVNNuS7T8stBSJ2R1mRytJeF1t2D9Ez4U0PcHhjNxRvIMJ7fbmkQ~laB9wyOxQ8pZ7~BvP5~72F3g-MLS-Uc2E2QqG01RnLYd4fqUlybNSwmqlkrxA-VGkAjTEjIvuvxp~phw3~CzDNuElyfbuTFpno4Mqd06rlulJxvEcyiX6tha8bdne0jt7Emy3p5g2JOvIJ7oP-gXbacRP~SQ33jbvLwQ0lyiYc3iMIdBQ2D80Y0NBGzIO0ezIe2ikRQ__",
-    title:
-      "Phục hồi chức năng và chăm sóc tại nhà cho người khuyết tật - Kinh nghiệm từ dự án Hòa nhập 1",
+      "https://www.kymviet.com.vn/R%E1%BA%AFn%20trong%20v%C4%83n%20h%C3%B3a%20c%E1%BB%95%20truy%E1%BB%81n%20Vi%E1%BB%87t%20Nam.jpg",
+    title: "KHÁM PHÁ LINH VẬT RẮN ĐẠI DIỆN CON GIÁP CỦA NĂM ẤT TỊ 2025",
     description:
-      "Trong khuôn khổ dự án Hòa nhập 1 – Hợp phần do Viện Nghiên cứu phát triển cộng đồng...",
-    dateTime: "8 ngày trước",
-    day: "06/06/2024",
+      "Theo quan niệm Á Đông, Rắn là biểu tượng của sự ẩn giấu . . .",
+    dateTime: "",
+    day: "25/10/2024 10:46 AM",
     subContent: [
       {
         id: 1,
         imageUrl:
-          "https://s3-alpha-sig.figma.com/img/b0d8/d56f/c1806f8883cbd4c5998f024877c5c3dd?Expires=1724025600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=chBwMqRwQ3QcpdnOWqGo4bNLveTN7k02KhlgBxXquDyqgGd2RnuQSM87y27KtbiV1lV0wq7-BjXdbdgVjTjF-YcYHFQTEe4dQEBM52gokeqSE4Iy4rfHeRKGQgEmK8IepgDpG1dYXZcc0b6lBWogMzMclZ57LhkNgxgQkCQ9FbxK~MGQZSiXveT-JTgBmAL~UhguyGCeYkO4NKdMeMd4JrtZYfyx0eWLfcm~6vzDGesFQvBdcACLEX4WXNjzhMKBHM-NMAchV7psP4353qnJyxdgj0s19ttftwtY~wwX~ZMwOWljsl4AEiCKROO~SpWREe5VIPrWXGzfbY3XZxZwMA__",
-        descImage:
-          "Đoàn công tác đang chia sẻ về các chính sách pháp luật và hoà nhập khuyết tật",
-        content: `Ngày 03-04/5/2024, Viện ACDC phối hợp cùng Sở Lao động – Thương binh và Xã hội, Trung tâm Trợ giúp pháp lý tỉnh và các tổ chức hỗ trợ người khuyết tật tỉnh Bình Định tổ chức tư vấn pháp luật và hoà nhập xã hội cho người khuyết tật huyện Tây Sơn. Sự kiện được diễn ra trong khuôn khổ dự án Hỗ trợ cải thiện chất lượng sống của người khuyết tật tại các tỉnh bị phun rải nặng chất da cam tại tỉnh Bình Định.\nĐoàn tư vấn pháp luật và hỗ trợ hoà nhập có sự tham gia của bà Vũ Thị Tuyết Mai – Giám đốc dự án; bà Lê Hải Yến, Trưởng phòng Luật Viện ACDC; bà Nguyễn Thị Thúy Hằng, đại diện Sở Lao động – Thương binh và Xã hội tỉnh; ông Lê Thành Sơn – Phó Giám đốc Trung tâm Trợ giúp pháp lý nhà nước tỉnh; ông Bùi Trung Dũng – Phó Chủ tịch Hội Bảo trợ người khuyết tật và Bảo vệ quyền trẻ em tỉnh; bà Nguyễn Thị Kim Vân – Phó Giám đốc Trung tâm giáo dục nghề nghiệp tỉnh; bà Trần Thị Thúy Nga – Phó Giám đốc Phòng Giao dịch Ngân hàng Chính sách xã hội huyện Tây Sơn.\nMục tiêu của hoạt động nhằm nâng cao hiểu biết cho người khuyết tật hoặc gia đình người khuyết tật về các chính sách, pháp luật hiện hành liên quan đến người khuyết tật; giúp tư vấn, giải đáp trực tiếp các câu hỏi, vụ việc liên quan đến pháp luật như cho người khuyết tật hoặc gia đình của người khuyết tật có nhu cầu.\nChia sẻ tại buổi tư vấn, ông Nguyễn Hữu Vinh, Trưởng phòng pháp luật về lao động xã hội, Trung tâm Trợ giúp pháp lý tỉnh Bình Định: Người dân đến tham gia hoạt động rất đông, và có nhiều thắc mắc không hiểu, cần được giải đáp. Người khuyết tật và người thân do tôi tư vấn đa phần là vấn đề thừa kế, về thủ tục làm giấy chứng nhận quyền sử dụng đất, tài sản trên đất… Hình thức tư vấn trực tiếp như thế này vô cùng hiệu quả và thiết thực với người khuyết tật.`,
+          "https://www.kymviet.com.vn/z5875960972075_6e4c35a6b78b4c413b8ce0123bd35bae.jpg",
+        descImage: "",
+        content: `Rắn trong văn hóa Việt:Là biểu tượng của sự bảo vệ và tăng cường tài vận. Trưng bày mô hình rắn không chỉ tăng cường yếu tố phong thủy mà còn thể hiện sự tôn trọng văn hóa truyền thống.
+
+        Ý nghĩa sâu sắc: Rắn biểu tượng cho sự tinh anh, nhạy cảm và khả năng thích ứng cao trong mọi cảnh hoàn chỉnh. Điều này phản ánh một năm mới với những cơ hội phát triển và thịnh vượng cho mọi người.
+
+        Tết Nguyên Đán năm 2025 đang đến gần với đại gia đình người Việt Nam, với con giáp đại diện là rắn (Tỵ), và linh vật Tết trở thành một xu hướng làm quà tặng ý nghĩa không thể thiếu. Mô hình Linh vật Rắn với chất liệu vải thổ cẩm nhồi bông của Công ty cổ phần Kymviet được thiết kế và sản xuất từ tâm huyết của những bàn tay người thợ khuyết tật (người điếc) không chỉ là biểu tượng của sự mạnh mẽ, quyền uy còn mang ý nghĩa trong đời sống về sự thông thái và chiến đấu. Hiển thị mô hình rắn trong các dịp lễ hội và không gian sống sẽ giúp thu hút tài lộc, may mắn và bình an cho gia đình.
+        `,
       },
       {
         id: 2,
@@ -186,30 +180,42 @@ Quà tặng kỷ yếu không chỉ là một món quà vật chất mà còn ma
   },
   {
     id: 5,
-    author: "NGUYỄN BÌNH MINH",
-    thumnail:
-      "https://s3-alpha-sig.figma.com/img/5de6/e000/5574fc4a0e59197d68720b19a03f0d08?Expires=1722211200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=XKhJpQ4XFGi3eqC9m0DvLqGuSX2-ER-fDVFpHkRqkGDppSPvIk2oWqUCXvxS84ePfx3fNiMpWh6~MrZIN99ZfzNpIQDxP5aR4P51t4CKRwKouznQRBxJv81RjO-7DLvB2P8U5Dt131qRxIC2GRp-p~HgFAimp2FhzntjpyjZeoir0PUo5UNYUAh5HaofqijWLjFB7R0pcc4OvCY~q29bx--Mo~IySh8m70W81IQk4Qe2rmhaviXdVh5dMeom2PfSCNwAM~xNtGqqCAxt6Z1cYbCrbL2lPQdh3iVDuDAlFxbBrerVEJERTWRg6bnxZvyGND43fc~40MnQ-WhATsIG1A__",
-    title: "Nhận biết và tìm hiểu về tiềm năng của trẻ em khuyết tật",
-    description:
-      "Mình là một người phụ nữ mang trên mình khuyết tật về thể chất. Mình sinh ra và lớn lên tại Hà Nội, thủ đô của Việt Nam. Chuyện kể rằng, mình được sinh ra vào thời kỳ sau chiến tranh. ",
+    author: "user08",
+    thumnail: "https://www.kymviet.com.vn/1-7.jpg",
+    title:
+      "Tìm hiểu hoạt động trải nghiệm giáo dục bổ ích cho học sinh sinh viên tại Hà nội",
+    description: "Hoạt động trải nghiệm giáo dục cho học sinh sinh viên là gì?",
     dateTime: "18 ngày trước",
     day: "06/06/2024",
     subContent: [
       {
         id: 1,
-        imageUrl:
-          "https://s3-alpha-sig.figma.com/img/b0d8/d56f/c1806f8883cbd4c5998f024877c5c3dd?Expires=1724025600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=chBwMqRwQ3QcpdnOWqGo4bNLveTN7k02KhlgBxXquDyqgGd2RnuQSM87y27KtbiV1lV0wq7-BjXdbdgVjTjF-YcYHFQTEe4dQEBM52gokeqSE4Iy4rfHeRKGQgEmK8IepgDpG1dYXZcc0b6lBWogMzMclZ57LhkNgxgQkCQ9FbxK~MGQZSiXveT-JTgBmAL~UhguyGCeYkO4NKdMeMd4JrtZYfyx0eWLfcm~6vzDGesFQvBdcACLEX4WXNjzhMKBHM-NMAchV7psP4353qnJyxdgj0s19ttftwtY~wwX~ZMwOWljsl4AEiCKROO~SpWREe5VIPrWXGzfbY3XZxZwMA__",
-        descImage:
-          "Đoàn công tác đang chia sẻ về các chính sách pháp luật và hoà nhập khuyết tật",
-        content: `Ngày 03-04/5/2024, Viện ACDC phối hợp cùng Sở Lao động – Thương binh và Xã hội, Trung tâm Trợ giúp pháp lý tỉnh và các tổ chức hỗ trợ người khuyết tật tỉnh Bình Định tổ chức tư vấn pháp luật và hoà nhập xã hội cho người khuyết tật huyện Tây Sơn. Sự kiện được diễn ra trong khuôn khổ dự án Hỗ trợ cải thiện chất lượng sống của người khuyết tật tại các tỉnh bị phun rải nặng chất da cam tại tỉnh Bình Định.\nĐoàn tư vấn pháp luật và hỗ trợ hoà nhập có sự tham gia của bà Vũ Thị Tuyết Mai – Giám đốc dự án; bà Lê Hải Yến, Trưởng phòng Luật Viện ACDC; bà Nguyễn Thị Thúy Hằng, đại diện Sở Lao động – Thương binh và Xã hội tỉnh; ông Lê Thành Sơn – Phó Giám đốc Trung tâm Trợ giúp pháp lý nhà nước tỉnh; ông Bùi Trung Dũng – Phó Chủ tịch Hội Bảo trợ người khuyết tật và Bảo vệ quyền trẻ em tỉnh; bà Nguyễn Thị Kim Vân – Phó Giám đốc Trung tâm giáo dục nghề nghiệp tỉnh; bà Trần Thị Thúy Nga – Phó Giám đốc Phòng Giao dịch Ngân hàng Chính sách xã hội huyện Tây Sơn.\nMục tiêu của hoạt động nhằm nâng cao hiểu biết cho người khuyết tật hoặc gia đình người khuyết tật về các chính sách, pháp luật hiện hành liên quan đến người khuyết tật; giúp tư vấn, giải đáp trực tiếp các câu hỏi, vụ việc liên quan đến pháp luật như cho người khuyết tật hoặc gia đình của người khuyết tật có nhu cầu.\nChia sẻ tại buổi tư vấn, ông Nguyễn Hữu Vinh, Trưởng phòng pháp luật về lao động xã hội, Trung tâm Trợ giúp pháp lý tỉnh Bình Định: Người dân đến tham gia hoạt động rất đông, và có nhiều thắc mắc không hiểu, cần được giải đáp. Người khuyết tật và người thân do tôi tư vấn đa phần là vấn đề thừa kế, về thủ tục làm giấy chứng nhận quyền sử dụng đất, tài sản trên đất… Hình thức tư vấn trực tiếp như thế này vô cùng hiệu quả và thiết thực với người khuyết tật.`,
+        imageUrl: "https://www.kymviet.com.vn/1-7.jpg",
+        descImage: "",
+        content: `Tại sao hoạt động trải nghiệm giáo dục lại quan trọng?
+
+Rèn luyện kỹ năng: Giúp học sinh sinh viên rèn luyện các kỹ năng mềm cần thiết cho công việc và cuộc sống sau này.
+Mở rộng kiến thức: Cung cấp cơ hội tiếp xúc với môi trường thực tế, giúp học sinh sinh viên mở rộng hiểu biết và khám phá những điều mới mẻ.
+Phát triển tư duy: Khuyến khích học sinh sinh viên tư duy độc lập, sáng tạo và tìm ra giải pháp cho các vấn đề thực tế.
+Tăng cường khả năng thích ứng: Giúp học sinh sinh viên thích nghi với những thay đổi và thử thách trong cuộc sống.
+Xây dựng mối quan hệ: Tạo cơ hội cho học sinh sinh viên giao lưu, kết nối với những người khác, xây dựng các mối quan hệ xã hội`,
       },
       {
         id: 2,
-        imageUrl:
-          "https://s3-alpha-sig.figma.com/img/433c/42af/8f00633cf3ad3948ac1fd4b1f9b48b2e?Expires=1724025600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=HqBy209rek5vAr7PipdOUY5dxsElHDF7Kg~aMDOOS4SahN-~jPkfKg7g9a6ygsAcoUMkjdjt9P-pqc5csMXg5ZZG5l7820KpXRcin9T~dp-FWVnrVwluPHW1zt-eVhk7DruLB2Lw1XayV80NB8HkldZ~oO7G30rKx7OJaEe1qeBZs9OtNmjxLQ8KX1Bycz3IwyFPfPDAgM4TZ~EvBRa32KhJ0URMx9IselOYdM9AIgW~Nbb6rktwUftFw8hhSV~LIEsC2rogqPTCsljaphMXd6WLYwTsyo3SSfst-aML8yz~PHeNKjH0euT6RoVfBYTnAq5extgKypQsEmgAkBdvJQ__",
-        descImage:
-          "Đoàn công tác đang chia sẻ về các chính sách pháp luật và hoà nhập khuyết tật",
-        content: `Chia sẻ sau khi được tư vấn, chị N.T.N.L, người nhà của người khuyết tật tại xã Bình Nghi cho biết: Tôi hôm nay đến với mong muốn giải đáp câu hỏi về tăng trợ cấp cho người khuyết tật. Sau khi được tư vấn, tôi hiểu rõ được mức trợ cấp hiện tại là mức cao nhất của tỉnh. Tôi rất hài lòng với cách tư vấn tận tình và cặn kẽ của đoàn.\n\nÔng V.T, người khuyết tật xã Bình Hoà nói: Từ lâu, tôi đã băn khoăn về quyền thừa kế của mình nhưng không biết hỏi ai. Giờ được đoàn tư vấn quy trình thực hiện, tôi sẽ làm theo hướng dẫn và biết tìm đến đâu để được hỗ trợ.\nChị T.T.C, người khuyết tật vui mừng chia sẻ: Đây là lần đầu tiên tôi được tham gia một sự kiện như thế này. Buổi tư vấn vô cùng bổ ích vì được giải đáp từng vấn đề riêng của từng người. Tôi mong có nhiều hơn nữa hoạt động như thế này, vì người khuyết tật chúng tôi tiếp cận thông tin rất hạn chế. Tôi vô cùng biết ơn đoàn tư vấn đã đến tận nơi, hỗ trợ tận tình cho chúng tôi.\nHoạt động nằm trong khuôn khổ dự án “Hỗ trợ cải thiện chất lượng sống của người khuyết tật tại các tỉnh bị phun rải nặng chất da cam” (gọi tắt là Dự án Hoà nhập II) tại tỉnh Bình Định và Kon Tum giai đoạn 2023 – 2026, do Cơ quan Phát triển Quốc tế Hoa Kỳ (USAID) tài trợ, Trung tâm hành động quốc gia khắc phục hậu quả chất độc hóa học và môi trường (NACCET) thuộc Bộ Quốc phòng làm Chủ dự án. Viện ACDC là một trong các đối tác triển khai các hoạt động dưới sự quản lý của Humanity & Inclusion (HI).`,
+        imageUrl: "https://www.kymviet.com.vn/2-7.jpg",
+        descImage: "",
+        content: `Các hình thức hoạt động trải nghiệm giáo dục tại Hà nội:
+
+Thực tập: Làm việc tại các doanh nghiệp, tổ chức để ứng dụng kiến thức đã học vào thực tế.
+Tham gia các dự án: Tham gia các dự án cộng đồng, nghiên cứu khoa học, khởi nghiệp để phát triển các kỹ năng và kiến thức mới.
+Tham quan thực tế: Tham quan các nhà máy, công ty, bảo tàng, di tích lịch sử, các cơ sở sản xuất kinh doanh sản phẩm và dịch vụ của người khuyết tật trong xã hội để tìm hiểu về các ngành nghề, lĩnh vực khác nhau.
+Trại hè, trại đông: Tham gia các trại hè, trại đông để trải nghiệm cuộc sống tập thể, rèn luyện các kỹ năng sống.
+Các hoạt động ngoại khóa: Tham gia các câu lạc bộ, đội nhóm, tổ chức sự kiện để phát triển sở thích và khả năng của bản thân.
+Lợi ích của hoạt động trải nghiệm giáo dục đối với học sinh sinh viên:
+
+Nâng cao chất lượng đào tạo: Giúp nhà trường đào tạo ra những sinh viên có kiến thức, kỹ năng và phẩm chất phù hợp với yêu cầu của xã hội.
+Tăng cường sự gắn kết giữa nhà trường và doanh nghiệp: Tạo điều kiện cho nhà trường và doanh nghiệp hợp tác, cùng nhau đào tạo nguồn nhân lực chất lượng cao.
+Đáp ứng nhu cầu của thị trường lao động: Giúp sinh viên định hướng đúng, dễ dàng tìm được việc làm sau khi ra trường.`,
       },
     ],
   },
@@ -217,29 +223,74 @@ Quà tặng kỷ yếu không chỉ là một món quà vật chất mà còn ma
     id: 6,
     author: "NGUYỄN ĐÌNH VŨ",
     thumnail:
-      "https://s3-alpha-sig.figma.com/img/cf7c/9e57/ba26ff1b9194f02332970b7b3d8923d9?Expires=1722211200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=pkEHmUAhSexLT5sSw9y9-aeJU2LwWQ18zw90HY0Dtt-~W1oOb7H5kKY5qJVkdQPBcjPH3dpS8ccAmI8PfyMdyN09~ly15XzPaZmmhQPOkPKhYx2y9rOKD92KvpypWCkBaK8lvmPcsB-HVeYEbKyC5M0YGfedPga74J9TxkXJedPE1KmoDxVOWQy~cYq0eYb93RJ3sxFnxFTJS4jY2AqnA3ECBBSa4L6cyxXf3JsY0XmZ12xwLe3moxQzScvl0Rwv-OzVPG9dy-gJE~AFlKoUzC9fb4ucZDK40ThoEdt3OE0Nt992YCyBhqHV7ilpiSY9Yy7ugWapho9KUwYGwsmzJw__",
-    title:
-      "Cùng vẽ thêm “đôi chân” cho trẻ em khuyết tật từ hành trình nhà sáng chế trẻ",
+      "https://lh4.googleusercontent.com/-EexYzY8tHJ8/WB9MQZwDj9I/AAAAAAAACO0/ySFgodfQz-sjSidKyf8pxZUiEIlTK19DQCLcB/s1600/tho-nguoi-khuyet-tat.jpg",
+    title: "NNhững bài thơ viết về người khuyết tật, những mảnh đời bất hạnh",
     description:
       "Mình là một người phụ nữ mang trên mình khuyết tật về thể chất. Mình sinh ra và lớn lên tại Hà Nội, thủ đô của Việt Nam. Chuyện kể rằng, mình được sinh ra vào thời kỳ sau chiến tranh. ",
     dateTime: "20 ngày trước",
-    day: "06/06/2024",
+    day: "",
     subContent: [
       {
         id: 1,
         imageUrl:
-          "https://s3-alpha-sig.figma.com/img/b0d8/d56f/c1806f8883cbd4c5998f024877c5c3dd?Expires=1724025600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=chBwMqRwQ3QcpdnOWqGo4bNLveTN7k02KhlgBxXquDyqgGd2RnuQSM87y27KtbiV1lV0wq7-BjXdbdgVjTjF-YcYHFQTEe4dQEBM52gokeqSE4Iy4rfHeRKGQgEmK8IepgDpG1dYXZcc0b6lBWogMzMclZ57LhkNgxgQkCQ9FbxK~MGQZSiXveT-JTgBmAL~UhguyGCeYkO4NKdMeMd4JrtZYfyx0eWLfcm~6vzDGesFQvBdcACLEX4WXNjzhMKBHM-NMAchV7psP4353qnJyxdgj0s19ttftwtY~wwX~ZMwOWljsl4AEiCKROO~SpWREe5VIPrWXGzfbY3XZxZwMA__",
-        descImage:
-          "Đoàn công tác đang chia sẻ về các chính sách pháp luật và hoà nhập khuyết tật",
-        content: `Ngày 03-04/5/2024, Viện ACDC phối hợp cùng Sở Lao động – Thương binh và Xã hội, Trung tâm Trợ giúp pháp lý tỉnh và các tổ chức hỗ trợ người khuyết tật tỉnh Bình Định tổ chức tư vấn pháp luật và hoà nhập xã hội cho người khuyết tật huyện Tây Sơn. Sự kiện được diễn ra trong khuôn khổ dự án Hỗ trợ cải thiện chất lượng sống của người khuyết tật tại các tỉnh bị phun rải nặng chất da cam tại tỉnh Bình Định.\nĐoàn tư vấn pháp luật và hỗ trợ hoà nhập có sự tham gia của bà Vũ Thị Tuyết Mai – Giám đốc dự án; bà Lê Hải Yến, Trưởng phòng Luật Viện ACDC; bà Nguyễn Thị Thúy Hằng, đại diện Sở Lao động – Thương binh và Xã hội tỉnh; ông Lê Thành Sơn – Phó Giám đốc Trung tâm Trợ giúp pháp lý nhà nước tỉnh; ông Bùi Trung Dũng – Phó Chủ tịch Hội Bảo trợ người khuyết tật và Bảo vệ quyền trẻ em tỉnh; bà Nguyễn Thị Kim Vân – Phó Giám đốc Trung tâm giáo dục nghề nghiệp tỉnh; bà Trần Thị Thúy Nga – Phó Giám đốc Phòng Giao dịch Ngân hàng Chính sách xã hội huyện Tây Sơn.\nMục tiêu của hoạt động nhằm nâng cao hiểu biết cho người khuyết tật hoặc gia đình người khuyết tật về các chính sách, pháp luật hiện hành liên quan đến người khuyết tật; giúp tư vấn, giải đáp trực tiếp các câu hỏi, vụ việc liên quan đến pháp luật như cho người khuyết tật hoặc gia đình của người khuyết tật có nhu cầu.\nChia sẻ tại buổi tư vấn, ông Nguyễn Hữu Vinh, Trưởng phòng pháp luật về lao động xã hội, Trung tâm Trợ giúp pháp lý tỉnh Bình Định: Người dân đến tham gia hoạt động rất đông, và có nhiều thắc mắc không hiểu, cần được giải đáp. Người khuyết tật và người thân do tôi tư vấn đa phần là vấn đề thừa kế, về thủ tục làm giấy chứng nhận quyền sử dụng đất, tài sản trên đất… Hình thức tư vấn trực tiếp như thế này vô cùng hiệu quả và thiết thực với người khuyết tật.`,
-      },
-      {
-        id: 2,
-        imageUrl:
-          "https://s3-alpha-sig.figma.com/img/433c/42af/8f00633cf3ad3948ac1fd4b1f9b48b2e?Expires=1724025600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=HqBy209rek5vAr7PipdOUY5dxsElHDF7Kg~aMDOOS4SahN-~jPkfKg7g9a6ygsAcoUMkjdjt9P-pqc5csMXg5ZZG5l7820KpXRcin9T~dp-FWVnrVwluPHW1zt-eVhk7DruLB2Lw1XayV80NB8HkldZ~oO7G30rKx7OJaEe1qeBZs9OtNmjxLQ8KX1Bycz3IwyFPfPDAgM4TZ~EvBRa32KhJ0URMx9IselOYdM9AIgW~Nbb6rktwUftFw8hhSV~LIEsC2rogqPTCsljaphMXd6WLYwTsyo3SSfst-aML8yz~PHeNKjH0euT6RoVfBYTnAq5extgKypQsEmgAkBdvJQ__",
-        descImage:
-          "Đoàn công tác đang chia sẻ về các chính sách pháp luật và hoà nhập khuyết tật",
-        content: `Chia sẻ sau khi được tư vấn, chị N.T.N.L, người nhà của người khuyết tật tại xã Bình Nghi cho biết: Tôi hôm nay đến với mong muốn giải đáp câu hỏi về tăng trợ cấp cho người khuyết tật. Sau khi được tư vấn, tôi hiểu rõ được mức trợ cấp hiện tại là mức cao nhất của tỉnh. Tôi rất hài lòng với cách tư vấn tận tình và cặn kẽ của đoàn.\n\nÔng V.T, người khuyết tật xã Bình Hoà nói: Từ lâu, tôi đã băn khoăn về quyền thừa kế của mình nhưng không biết hỏi ai. Giờ được đoàn tư vấn quy trình thực hiện, tôi sẽ làm theo hướng dẫn và biết tìm đến đâu để được hỗ trợ.\nChị T.T.C, người khuyết tật vui mừng chia sẻ: Đây là lần đầu tiên tôi được tham gia một sự kiện như thế này. Buổi tư vấn vô cùng bổ ích vì được giải đáp từng vấn đề riêng của từng người. Tôi mong có nhiều hơn nữa hoạt động như thế này, vì người khuyết tật chúng tôi tiếp cận thông tin rất hạn chế. Tôi vô cùng biết ơn đoàn tư vấn đã đến tận nơi, hỗ trợ tận tình cho chúng tôi.\nHoạt động nằm trong khuôn khổ dự án “Hỗ trợ cải thiện chất lượng sống của người khuyết tật tại các tỉnh bị phun rải nặng chất da cam” (gọi tắt là Dự án Hoà nhập II) tại tỉnh Bình Định và Kon Tum giai đoạn 2023 – 2026, do Cơ quan Phát triển Quốc tế Hoa Kỳ (USAID) tài trợ, Trung tâm hành động quốc gia khắc phục hậu quả chất độc hóa học và môi trường (NACCET) thuộc Bộ Quốc phòng làm Chủ dự án. Viện ACDC là một trong các đối tác triển khai các hoạt động dưới sự quản lý của Humanity & Inclusion (HI).`,
+          "https://lh4.googleusercontent.com/-zpIYW6ukG9E/WD39eVZWcwI/AAAAAAAACqI/SIY6_eVFkIQEpNjNnPmqkjK3wuXb6YjpwCLcB/s1600/tho-nguoi-cha-khuyet-tat.jpg",
+        descImage: "",
+        content: `BÀI THƠ: THÂN PHẬN TẬT NGUYỀN
+Thơ: Hồng Hoa
+
+Em cũng sống giữa đời như thiên hạ
+Nhưng nỗi đau lại quá sức làm người
+Năm tháng buồn…mặt rủ rượi chẳng tươi
+Thân tàn phế tiếng cười không còn nữa.
+Cầu sớm tối…vui đùa tình chan chứa
+Nhưng thân em đâu chọn lựa được gì
+Chân tay cùng…ghì níu để lết đi
+Lê thân xác…môi thầm thì…gọi Mẹ.
+Rồi cứ thế em nhẹ nhàng thật khẽ
+Cố gượng cười…dù chỉ hé vành môi
+Nuốt đớn đau muôn lối của cuộc đời
+Rơi nước mắt thấm bờ môi mặn chát.
+Ai ngang qua…nhớ giúp em két bạc
+Để nuôi thân khi thân xác hiểm nghèo
+Đời dải dầu khô héo…giữa cheo leo
+Thương thân phận bọt bèo trời nỡ đọa!
+
+
+THƠ NGƯỜI KHUYẾT TẬT: THẮP SÁNG ƯỚC MƠ
+Thơ: Trần Văn Nghệ
+
+Bao mong mỏi đến ngày sinh hạ
+Mẹ đón em một đóa hoa tươi
+Nét môi, khoé mắt,mi cười
+Bi bô học nói, vui chơi suốt ngày.
+Nhưng uất hận đắng cay vô lối
+Trời cao xanh bắt tội em mang
+Hóa công sao lại bẽ bàng
+Tứ chi nặn dở, muộn màng ngày sinh.
+Nhìn chúng bạn đuổi hình bắt bóng
+Bi với cù, chong chóng, nhảy dây
+Còn em lay lắt thân gầy
+Sàn nhà, bậu cửa vạch đầy nét son.
+Cuộc đời nhỏ sao còn phải gánh?
+Nét tai ương ai chạnh lòng đây?
+Bất công giữa cuộc đời này
+Nuôi mầm mơ ước có thay phận nghèo?
+Nhưng em hỡi!Gieo neo đâu sợ
+Khó khăn nhiều chớ có chùn chân
+Trong em nhiều lắm: Tinh thần
+Trí khôn tuyệt đỉnh, rất cần đó em.
+Trong giấc ngủ nuôi niềm mộng ước
+Đời cho em được bước thẳng ngay
+Vạch đường bằng chính đôi tay
+Gian nan đâu kể, có ngày vinh quang.
+Hãy tin nhé, mỗi trang em viết
+Sẽ có dòng tha thiết tình thương
+Cuộc đời nhiều lắm -Vô thường
+Bàn tay nâng đỡ đoạn đường em đi.
+Lòng nhân ái chẳng khi nào thiếu
+Nghĩa nhân từ đâu liệu đắn đo?
+Chở hy vọng -Một con đò
+Thắp niềm mơ ước em thơ vững lòng.`,
       },
     ],
   },
@@ -247,58 +298,76 @@ Quà tặng kỷ yếu không chỉ là một món quà vật chất mà còn ma
     id: 7,
     author: "NGUYỄN ĐÌNH VŨ",
     thumnail:
-      "https://s3-alpha-sig.figma.com/img/5c65/b046/2d2817da98b70edf91426cb9beb8b815?Expires=1722211200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Te7kh4GX3Z8COpz0d~wwsuwsPzCi~ut-k9wy4w~TYuJpWI4bdreUBj0QyK5Fimv-whTuvtMWedozWKVJLC4X2C9u-9lySCfz7iMl7kynqbdAoivPZlInTXHinZSf2UCNnRpiXAVR48z1x67LtNbP7pV8tOQSFz-j~zkeyvwGkwsqQ3zTSOvXQ6xdAFrCYqCbpF9nRseL9MIrTMcuI1XvznfkucEaX5lVd1uCOuj3ABxUgt1jwd4yLpXvp7TaOU1NJw0yYoamqbocth7xH90TLYk9OsKEVZzefM2UmmeafyN0AcZ1htfU4Smk~uuCq-RuisEdnrgE37oLq-9epn5mjw__",
-    title:
-      "Ngày người khuyết tật Việt Nam 2024: Cùng hành động để người khuyết tật hoà nhập",
+      "https://baodanang.vn/dataimages/202311/original/images1719398_1.gif",
+    title: "Sản phẩm thủ công độc đáo của người khuyết tật",
     description:
-      "Nhằm thúc đẩy một xã hội tiếp cận và hoà nhập cho tất cả mọi người, chương trình...",
-    dateTime: "8 ngày trước",
-    day: "06/06/2024",
+      "Nhiều sản phẩm thủ công đẹp mắt, tinh tế được làm bởi chính đôi bàn tay của người khuyết tật trên địa bàn thành phố. Những sản phẩm này không chỉ tạo việc làm, mà còn góp phần quảng bá hình ảnh quê hương đến với khách du lịch.",
+    dateTime: "",
+    day: "24/11/2023 ",
     subContent: [
       {
         id: 1,
         imageUrl:
-          "https://s3-alpha-sig.figma.com/img/b0d8/d56f/c1806f8883cbd4c5998f024877c5c3dd?Expires=1724025600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=chBwMqRwQ3QcpdnOWqGo4bNLveTN7k02KhlgBxXquDyqgGd2RnuQSM87y27KtbiV1lV0wq7-BjXdbdgVjTjF-YcYHFQTEe4dQEBM52gokeqSE4Iy4rfHeRKGQgEmK8IepgDpG1dYXZcc0b6lBWogMzMclZ57LhkNgxgQkCQ9FbxK~MGQZSiXveT-JTgBmAL~UhguyGCeYkO4NKdMeMd4JrtZYfyx0eWLfcm~6vzDGesFQvBdcACLEX4WXNjzhMKBHM-NMAchV7psP4353qnJyxdgj0s19ttftwtY~wwX~ZMwOWljsl4AEiCKROO~SpWREe5VIPrWXGzfbY3XZxZwMA__",
+          "https://baodanang.vn/dataimages/202311/original/images1719398_1.gif",
         descImage:
-          "Đoàn công tác đang chia sẻ về các chính sách pháp luật và hoà nhập khuyết tật",
-        content: `Ngày 03-04/5/2024, Viện ACDC phối hợp cùng Sở Lao động – Thương binh và Xã hội, Trung tâm Trợ giúp pháp lý tỉnh và các tổ chức hỗ trợ người khuyết tật tỉnh Bình Định tổ chức tư vấn pháp luật và hoà nhập xã hội cho người khuyết tật huyện Tây Sơn. Sự kiện được diễn ra trong khuôn khổ dự án Hỗ trợ cải thiện chất lượng sống của người khuyết tật tại các tỉnh bị phun rải nặng chất da cam tại tỉnh Bình Định.\nĐoàn tư vấn pháp luật và hỗ trợ hoà nhập có sự tham gia của bà Vũ Thị Tuyết Mai – Giám đốc dự án; bà Lê Hải Yến, Trưởng phòng Luật Viện ACDC; bà Nguyễn Thị Thúy Hằng, đại diện Sở Lao động – Thương binh và Xã hội tỉnh; ông Lê Thành Sơn – Phó Giám đốc Trung tâm Trợ giúp pháp lý nhà nước tỉnh; ông Bùi Trung Dũng – Phó Chủ tịch Hội Bảo trợ người khuyết tật và Bảo vệ quyền trẻ em tỉnh; bà Nguyễn Thị Kim Vân – Phó Giám đốc Trung tâm giáo dục nghề nghiệp tỉnh; bà Trần Thị Thúy Nga – Phó Giám đốc Phòng Giao dịch Ngân hàng Chính sách xã hội huyện Tây Sơn.\nMục tiêu của hoạt động nhằm nâng cao hiểu biết cho người khuyết tật hoặc gia đình người khuyết tật về các chính sách, pháp luật hiện hành liên quan đến người khuyết tật; giúp tư vấn, giải đáp trực tiếp các câu hỏi, vụ việc liên quan đến pháp luật như cho người khuyết tật hoặc gia đình của người khuyết tật có nhu cầu.\nChia sẻ tại buổi tư vấn, ông Nguyễn Hữu Vinh, Trưởng phòng pháp luật về lao động xã hội, Trung tâm Trợ giúp pháp lý tỉnh Bình Định: Người dân đến tham gia hoạt động rất đông, và có nhiều thắc mắc không hiểu, cần được giải đáp. Người khuyết tật và người thân do tôi tư vấn đa phần là vấn đề thừa kế, về thủ tục làm giấy chứng nhận quyền sử dụng đất, tài sản trên đất… Hình thức tư vấn trực tiếp như thế này vô cùng hiệu quả và thiết thực với người khuyết tật.`,
-      },
-      {
-        id: 2,
-        imageUrl:
-          "https://s3-alpha-sig.figma.com/img/433c/42af/8f00633cf3ad3948ac1fd4b1f9b48b2e?Expires=1724025600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=HqBy209rek5vAr7PipdOUY5dxsElHDF7Kg~aMDOOS4SahN-~jPkfKg7g9a6ygsAcoUMkjdjt9P-pqc5csMXg5ZZG5l7820KpXRcin9T~dp-FWVnrVwluPHW1zt-eVhk7DruLB2Lw1XayV80NB8HkldZ~oO7G30rKx7OJaEe1qeBZs9OtNmjxLQ8KX1Bycz3IwyFPfPDAgM4TZ~EvBRa32KhJ0URMx9IselOYdM9AIgW~Nbb6rktwUftFw8hhSV~LIEsC2rogqPTCsljaphMXd6WLYwTsyo3SSfst-aML8yz~PHeNKjH0euT6RoVfBYTnAq5extgKypQsEmgAkBdvJQ__",
-        descImage:
-          "Đoàn công tác đang chia sẻ về các chính sách pháp luật và hoà nhập khuyết tật",
-        content: `Chia sẻ sau khi được tư vấn, chị N.T.N.L, người nhà của người khuyết tật tại xã Bình Nghi cho biết: Tôi hôm nay đến với mong muốn giải đáp câu hỏi về tăng trợ cấp cho người khuyết tật. Sau khi được tư vấn, tôi hiểu rõ được mức trợ cấp hiện tại là mức cao nhất của tỉnh. Tôi rất hài lòng với cách tư vấn tận tình và cặn kẽ của đoàn.\n\nÔng V.T, người khuyết tật xã Bình Hoà nói: Từ lâu, tôi đã băn khoăn về quyền thừa kế của mình nhưng không biết hỏi ai. Giờ được đoàn tư vấn quy trình thực hiện, tôi sẽ làm theo hướng dẫn và biết tìm đến đâu để được hỗ trợ.\nChị T.T.C, người khuyết tật vui mừng chia sẻ: Đây là lần đầu tiên tôi được tham gia một sự kiện như thế này. Buổi tư vấn vô cùng bổ ích vì được giải đáp từng vấn đề riêng của từng người. Tôi mong có nhiều hơn nữa hoạt động như thế này, vì người khuyết tật chúng tôi tiếp cận thông tin rất hạn chế. Tôi vô cùng biết ơn đoàn tư vấn đã đến tận nơi, hỗ trợ tận tình cho chúng tôi.\nHoạt động nằm trong khuôn khổ dự án “Hỗ trợ cải thiện chất lượng sống của người khuyết tật tại các tỉnh bị phun rải nặng chất da cam” (gọi tắt là Dự án Hoà nhập II) tại tỉnh Bình Định và Kon Tum giai đoạn 2023 – 2026, do Cơ quan Phát triển Quốc tế Hoa Kỳ (USAID) tài trợ, Trung tâm hành động quốc gia khắc phục hậu quả chất độc hóa học và môi trường (NACCET) thuộc Bộ Quốc phòng làm Chủ dự án. Viện ACDC là một trong các đối tác triển khai các hoạt động dưới sự quản lý của Humanity & Inclusion (HI).`,
+          "Anh Hứa Văn Minh nói về cơ duyên làm đồ lưu niệm bằng tăm tre",
+        content: `Quảng bá du lịch địa phương
+
+Trong quá trình lao động, chẳng may bị đá rơi trúng người gãy cột sống khiến anh Hứa Văn Minh (SN 1982, quận Sơn Trà) liệt nửa người. Từ một người khỏe mạnh, là chỗ dựa cho cả gia đình, anh trở thành người tật nguyền. Nhưng nhờ tình yêu thương, động viên của cả gia đình, anh nỗ lực vượt qua số phận và hành trình đến với sản phẩm thủ công làm từ tăm tre bắt đầu từ đó.
+
+Năm 2014, với 3 tháng thực hiện, anh cho ra mắt sản phẩm đầu tay là tháp Eiffel. Tiếp đến là Ngọ Môn Huế, anh hoàn thiện chỉ trong vòng 10 ngày. Anh cho biết, giai đoạn đầu anh nhờ gia đình đến các cửa hàng mua nguyên vật liệu. Thời gian sau, anh sắm một chiếc xe ba bánh tự đi tìm nguồn nhập tre và đi chào bán cho các tiệm lưu niệm.
+
+Đối với những sản phẩm đầu tiên ra mắt, anh ký gửi ở các cửa hàng bán đồ lưu niệm du lịch tại Đà Nẵng và nhận được nhiều sự hưởng ứng, cùng với đó là những ý kiến đóng góp. Anh tham khảo, học hỏi và điều chỉnh ngay. Chính vì vậy, những sản phẩm về sau có thiết kế độc đáo và tinh tế hơn, thu hút được nhiều lượng khách hàng tìm đến.
+
+Qua tìm hiểu, thấy sản phẩm lưu niệm du lịch có rất ít trên thị trường, anh đã nghiên cứu và chọn biểu tượng Trung tâm Hành chính thành phố cùng các cây cầu tại thành phố để làm mô hình quà lưu niệm. Khách hàng đặt mua qua mạng xã hội, các sản phẩm mô phỏng bằng tăm tre như: cầu Rồng, cầu Thuận Phước, thành Đại nội Huế, nhà rông Tây Nguyên... Mỗi sản phẩm có giá từ 700.000 - 1,5 triệu đồng tùy theo kích thước khách yêu cầu.
+
+Nói về quy trình thực hiện, anh tâm sự: “Trước khi thực hiện sản phẩm, tôi phác họa bản vẽ, thực hiện theo tỷ lệ khách yêu cầu và triển khai lắp ráp. Tăm tre tôi mua từ Hội Người mù thành phố. Mỗi sản phẩm tôi thực hiện mất ít nhất 3-4 ngày”.
+
+Trung bình mỗi tháng, anh kiếm được 5-7 triệu đồng từ các sản phẩm lưu niệm này. Nhưng với anh, đây không chỉ là một công việc mang lại thu nhập, ổn định cuộc sống mà còn là niềm đam mê sáng tạo. Được đóng góp sức lực nhỏ bé vào việc đưa hình ảnh của quê hương đến với khách du lịch, anh bảo anh rất vui và đó cũng là động lực để không ngừng học hỏi, tìm tòi phát triển mỗi ngày.
+
+Vươn lên trong cuộc sống
+
+Đoạt giải Nhất trong cuộc thi “Ý tưởng khởi nghiệp” năm 2023 với chủ đề “Phát triển kinh tế gắn với nâng cao khả năng thương mại cho các sản phẩm địa phương” do Hội Liên hiệp Phụ nữ huyện Hòa Vang tổ chức, chị Hồ Thị Láng (SN 1994, trú huyện Hòa Vang) không dám tin những bức tranh nhỏ bé của mình chinh phục được Ban giám khảo cuộc thi.
+
+Không giống với bạn bè đồng trang lứa, từ nhỏ, chị Hồ Thị Láng mắc bệnh xương khớp, cơ thể nhỏ bé, không thể lao động, làm việc như người bình thường.
+
+Năm 2014, chị tìm hiểu về dòng sản phẩm thủ công quilling paper, nhận thấy việc làm này phù hợp với sức khỏe của bản thân nên chị quyết tâm học nghề. Đến năm 2018, gom hết số tiền dành dụm, chị mua nguyên vật liệu, dụng cụ để làm tranh giấy xoắn. Nói về bước đầu khởi nghiệp, chị Láng kể: “Thời điểm đó rất ít người biết đến tranh giấy xoắn. Tôi thường đăng bài giới thiệu sản phẩm trên trang Facebook cá nhân của mình, rồi cũng có những vị khách hàng đầu tiên tìm đến. Đó là động lực lớn để tôi có thể theo đuổi dòng sản phẩm tranh giấy xoắn đến nay”. 
+
+Theo chị Láng, mỗi sản phẩm là một câu chuyện về quê hương, chim chóc, cây cối... Khi thực hiện, chị phải lựa chọn sắc màu phối hợp sao cho bắt mắt nhưng không kém phần mềm mại. Đối với thiệp, chị mất từ 1-2 giờ đồng hồ để hoàn thành một sản phẩm. Đối với tranh, chị thực hiện từ 4-7 ngày cho một bức khổ lớn. Trong đó, công đoạn xoắn sợi cần sự tập trung, kiên nhẫn để chị có thể tạo sự ấn tượng cho bức tranh. Mỗi tháng, chị kiếm được 4-5 triệu đồng từ công việc này.
+
+Trong thời gian tới, chị Láng mong muốn tìm được đầu ra cho sản phẩm để nguồn thu nhập ổn định hơn. Đồng thời, chị sẵn sàng dạy nghề cho những bạn có nhu cầu học tập, có hoàn cảnh kém may mắn và yêu thích tranh tảo xoắn.`,
       },
     ],
   },
   {
     id: 8,
-    author: "TRỊNH THANH THANH",
+    author: "BÁCH NHẬT",
     thumnail:
-      "https://s3-alpha-sig.figma.com/img/97bf/1cf8/253394ccb2d30545d62e7dc8cb8ef0b8?Expires=1722211200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=erjD-A696nu-X7nQHMc5t2LOfpmXXhTrC3KQNzotRZyj8AnteWqxeShQlba7kSEt5I4rNY6HhBTRbv8r6ibG--6PHFfv-dtqsV3QX3G~KF8nizMx6ul9R2xtxnNWLU6HDaHUPoLkkcomvCi1Cw448b1lyUKsDSFD5FKyMaL0HSgP1zibrzlE~tzC78JBqu5PXttn9sY4J7eoK8QcfsDE0Rt7KQoALv0lNduX0PtnKEf~mKgM3SQLV-TK4ltLAl4egvVZkHz--gnbwcct~3jRpVVrV02qb5ARt9Ozpov3AVlYyB5oqy4Ip7WOwID1RC38OV8wOwvboXDJYniqeOo6ng__",
-    title: "Chuyện của chúng tôi",
+      "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2023/4/18/20230418-151754-1-16818237996451668895126-4-0-1190-1898-crop-1681823807074738799742.jpg",
+    title:
+      "Ấn tượng triển lãm bày gần 40 bức tranh, sản phẩm thủ công của người khuyết tật",
     description:
-      "Mình là một người phụ nữ mang trên mình khuyết tật về thể chất. Mình sinh ra và lớn lên tại Hà Nội, thủ đô của Việt Nam. Chuyện kể rằng, mình được sinh ra vào thời kỳ sau chiến tranh. ",
-    dateTime: "15 ngày trước",
-    day: "06/06/2024",
+      "Chiều nay 18.4, tại Bảo tàng Hà Nội, Hợp tác xã Vụn Art tổ chức khai mạc triển lãm mang tên Những mảnh vụn trưng bày các sản phẩm được thiết kế bởi bàn tay của những người khuyết tật, yếu thế trong cuộc sống.",
+    dateTime: "",
+    day: "18/04/2023",
     subContent: [
       {
         id: 1,
         imageUrl:
-          "https://s3-alpha-sig.figma.com/img/b0d8/d56f/c1806f8883cbd4c5998f024877c5c3dd?Expires=1724025600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=chBwMqRwQ3QcpdnOWqGo4bNLveTN7k02KhlgBxXquDyqgGd2RnuQSM87y27KtbiV1lV0wq7-BjXdbdgVjTjF-YcYHFQTEe4dQEBM52gokeqSE4Iy4rfHeRKGQgEmK8IepgDpG1dYXZcc0b6lBWogMzMclZ57LhkNgxgQkCQ9FbxK~MGQZSiXveT-JTgBmAL~UhguyGCeYkO4NKdMeMd4JrtZYfyx0eWLfcm~6vzDGesFQvBdcACLEX4WXNjzhMKBHM-NMAchV7psP4353qnJyxdgj0s19ttftwtY~wwX~ZMwOWljsl4AEiCKROO~SpWREe5VIPrWXGzfbY3XZxZwMA__",
+          "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2023/4/18/20230418151715-16818197622311923885604.jpg",
         descImage:
-          "Đoàn công tác đang chia sẻ về các chính sách pháp luật và hoà nhập khuyết tật",
-        content: `Ngày 03-04/5/2024, Viện ACDC phối hợp cùng Sở Lao động – Thương binh và Xã hội, Trung tâm Trợ giúp pháp lý tỉnh và các tổ chức hỗ trợ người khuyết tật tỉnh Bình Định tổ chức tư vấn pháp luật và hoà nhập xã hội cho người khuyết tật huyện Tây Sơn. Sự kiện được diễn ra trong khuôn khổ dự án Hỗ trợ cải thiện chất lượng sống của người khuyết tật tại các tỉnh bị phun rải nặng chất da cam tại tỉnh Bình Định.\nĐoàn tư vấn pháp luật và hỗ trợ hoà nhập có sự tham gia của bà Vũ Thị Tuyết Mai – Giám đốc dự án; bà Lê Hải Yến, Trưởng phòng Luật Viện ACDC; bà Nguyễn Thị Thúy Hằng, đại diện Sở Lao động – Thương binh và Xã hội tỉnh; ông Lê Thành Sơn – Phó Giám đốc Trung tâm Trợ giúp pháp lý nhà nước tỉnh; ông Bùi Trung Dũng – Phó Chủ tịch Hội Bảo trợ người khuyết tật và Bảo vệ quyền trẻ em tỉnh; bà Nguyễn Thị Kim Vân – Phó Giám đốc Trung tâm giáo dục nghề nghiệp tỉnh; bà Trần Thị Thúy Nga – Phó Giám đốc Phòng Giao dịch Ngân hàng Chính sách xã hội huyện Tây Sơn.\nMục tiêu của hoạt động nhằm nâng cao hiểu biết cho người khuyết tật hoặc gia đình người khuyết tật về các chính sách, pháp luật hiện hành liên quan đến người khuyết tật; giúp tư vấn, giải đáp trực tiếp các câu hỏi, vụ việc liên quan đến pháp luật như cho người khuyết tật hoặc gia đình của người khuyết tật có nhu cầu.\nChia sẻ tại buổi tư vấn, ông Nguyễn Hữu Vinh, Trưởng phòng pháp luật về lao động xã hội, Trung tâm Trợ giúp pháp lý tỉnh Bình Định: Người dân đến tham gia hoạt động rất đông, và có nhiều thắc mắc không hiểu, cần được giải đáp. Người khuyết tật và người thân do tôi tư vấn đa phần là vấn đề thừa kế, về thủ tục làm giấy chứng nhận quyền sử dụng đất, tài sản trên đất… Hình thức tư vấn trực tiếp như thế này vô cùng hiệu quả và thiết thực với người khuyết tật.`,
+          "Tranh ghép từ vải vụn nhiều màu sắc của người khuyết tật tại Hợp tác xã Vụn Art",
+        content: `Chiều nay 18.4, tại Bảo tàng Hà Nội, Hợp tác xã Vụn Art tổ chức khai mạc triển lãm mang tên Những mảnh vụn trưng bày các sản phẩm được thiết kế bởi bàn tay của những người khuyết tật, yếu thế trong cuộc sống.
+Triển lãm Những mảnh vụn giới thiệu gần 40 bức tranh và nhiều sản phẩm thủ công ứng dụng cùng các hoạt động trình diễn và trải nghiệm tương tác phục vụ khách tham quan, với mong muốn lan tỏa những giá trị tốt đẹp về nghị lực sống, vượt khó, vươn lên của những người khuyết tật.
+
+Chia sẻ về triển lãm, anh Lê Việt Cường, Giám đốc Hợp tác xã Vụn Art, cho biết triển lãm lần này của Vụn Art trưng bày những bức tranh ghép vải là một loại hình nghệ thuật mới, đòi hỏi tính tỉ mỉ, cẩn trọng, con mắt nghệ thuật tinh tế và khả năng phối hợp ngẫu hứng với những mảnh lụa nhiều màu sắc. `,
       },
       {
         id: 2,
         imageUrl:
-          "https://s3-alpha-sig.figma.com/img/433c/42af/8f00633cf3ad3948ac1fd4b1f9b48b2e?Expires=1724025600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=HqBy209rek5vAr7PipdOUY5dxsElHDF7Kg~aMDOOS4SahN-~jPkfKg7g9a6ygsAcoUMkjdjt9P-pqc5csMXg5ZZG5l7820KpXRcin9T~dp-FWVnrVwluPHW1zt-eVhk7DruLB2Lw1XayV80NB8HkldZ~oO7G30rKx7OJaEe1qeBZs9OtNmjxLQ8KX1Bycz3IwyFPfPDAgM4TZ~EvBRa32KhJ0URMx9IselOYdM9AIgW~Nbb6rktwUftFw8hhSV~LIEsC2rogqPTCsljaphMXd6WLYwTsyo3SSfst-aML8yz~PHeNKjH0euT6RoVfBYTnAq5extgKypQsEmgAkBdvJQ__",
-        descImage:
-          "Đoàn công tác đang chia sẻ về các chính sách pháp luật và hoà nhập khuyết tật",
-        content: `Chia sẻ sau khi được tư vấn, chị N.T.N.L, người nhà của người khuyết tật tại xã Bình Nghi cho biết: Tôi hôm nay đến với mong muốn giải đáp câu hỏi về tăng trợ cấp cho người khuyết tật. Sau khi được tư vấn, tôi hiểu rõ được mức trợ cấp hiện tại là mức cao nhất của tỉnh. Tôi rất hài lòng với cách tư vấn tận tình và cặn kẽ của đoàn.\n\nÔng V.T, người khuyết tật xã Bình Hoà nói: Từ lâu, tôi đã băn khoăn về quyền thừa kế của mình nhưng không biết hỏi ai. Giờ được đoàn tư vấn quy trình thực hiện, tôi sẽ làm theo hướng dẫn và biết tìm đến đâu để được hỗ trợ.\nChị T.T.C, người khuyết tật vui mừng chia sẻ: Đây là lần đầu tiên tôi được tham gia một sự kiện như thế này. Buổi tư vấn vô cùng bổ ích vì được giải đáp từng vấn đề riêng của từng người. Tôi mong có nhiều hơn nữa hoạt động như thế này, vì người khuyết tật chúng tôi tiếp cận thông tin rất hạn chế. Tôi vô cùng biết ơn đoàn tư vấn đã đến tận nơi, hỗ trợ tận tình cho chúng tôi.\nHoạt động nằm trong khuôn khổ dự án “Hỗ trợ cải thiện chất lượng sống của người khuyết tật tại các tỉnh bị phun rải nặng chất da cam” (gọi tắt là Dự án Hoà nhập II) tại tỉnh Bình Định và Kon Tum giai đoạn 2023 – 2026, do Cơ quan Phát triển Quốc tế Hoa Kỳ (USAID) tài trợ, Trung tâm hành động quốc gia khắc phục hậu quả chất độc hóa học và môi trường (NACCET) thuộc Bộ Quốc phòng làm Chủ dự án. Viện ACDC là một trong các đối tác triển khai các hoạt động dưới sự quản lý của Humanity & Inclusion (HI).`,
+          "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2023/4/18/20230418151543-16818204249901436007452.jpg",
+        descImage: "",
+        content: `Các bức tranh trưng bày được chuyển thể từ nhiều thể loại: tranh dân gian Việt Nam (tranh Hàng Trống, tranh Kim Hoàng, tranh Đông Hồ…), tranh đồng quê, tranh danh lam thắng cảnh Việt Nam và thế giới, chân dung danh nhân và tranh của các họa sĩ nổi tiếng. Những mảnh vụn lụa qua tay người thợ Vụn Art như được thổi hồn, trở nên sống động, khiến những bức tranh độc bản trở thành những tác phẩm nghệ thuật tuyệt đẹp.`,
       },
     ],
   },
@@ -306,21 +375,22 @@ Quà tặng kỷ yếu không chỉ là một món quà vật chất mà còn ma
     id: 9,
     author: "ĐẶNG THÙY LINH",
     thumnail:
-      "https://s3-alpha-sig.figma.com/img/a607/9b55/1f48ea83e9a5598111e685d1ef699d30?Expires=1722211200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ncRGbMDQ33yISUuUTbT3RpNrmWN5WZzxt3qQBdsVxVZ4hWb5EFtN~f~Emg-F2XA1P9WqkT5g0vCupwV8UX-qLXLuy6KchFY8JHclCISWGHLc1HHcdpK7I3KONchSH3LVjJp5ROCawMjQS4QOccmhNgRxw-ydzTWq7~PxpaVT-RqGt5vWdNZjzNxRvJIDBaC20z2KQsMERpU93Ysy-c3T9y5QzD297Xs6ozwlUxZUWj5sHjkpCaLHXtN-gAGxrYJCSg4iPxpZaa7GjCG~2fl4yfYak34MJmlQadz85TOSHNpLfu2ZAhoKlvrEVJMRrFb9asMxYbzxkODUMcYTGmG7fw__",
-    title:
-      "Đấu tranh vì quyền đồng nghĩa với việc biến lời nói thành hành động",
+      "https://hoilhpn.org.vn/documents/1809139/0/sp+pnkt+HCM+3+1+.jpg/d3b6ec48-2d14-498e-82c9-bd420e588066",
+    title: "TP. HCM: Những sản phẩm handmade độc - lạ của phụ nữ khuyết tật",
     description:
-      "Mình là một người phụ nữ mang trên mình khuyết tật về thể chất. Mình sinh ra và lớn lên tại Hà Nội, thủ đô của Việt Nam. Chuyện kể rằng, mình được sinh ra vào thời kỳ sau chiến tranh. ",
-    dateTime: "8 ngày trước",
-    day: "06/06/2024",
+      "Nhìn những sản phẩm thủ công tinh xảo tại chương trình “Vẻ đẹp vầng trăng khuyết”, ít ai nghĩ rằng đó là sản phẩm của các chị em phụ nữ khuyết tật. Vượt lên số phận, họ đã nỗ lực gấp nhiều lần để tìm thấy giá trị của bản thân và khẳng định năng lực qua từng sản phẩm. ",
+    dateTime: "",
+    day: "15/04/2022",
     subContent: [
       {
         id: 1,
         imageUrl:
-          "https://s3-alpha-sig.figma.com/img/b0d8/d56f/c1806f8883cbd4c5998f024877c5c3dd?Expires=1724025600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=chBwMqRwQ3QcpdnOWqGo4bNLveTN7k02KhlgBxXquDyqgGd2RnuQSM87y27KtbiV1lV0wq7-BjXdbdgVjTjF-YcYHFQTEe4dQEBM52gokeqSE4Iy4rfHeRKGQgEmK8IepgDpG1dYXZcc0b6lBWogMzMclZ57LhkNgxgQkCQ9FbxK~MGQZSiXveT-JTgBmAL~UhguyGCeYkO4NKdMeMd4JrtZYfyx0eWLfcm~6vzDGesFQvBdcACLEX4WXNjzhMKBHM-NMAchV7psP4353qnJyxdgj0s19ttftwtY~wwX~ZMwOWljsl4AEiCKROO~SpWREe5VIPrWXGzfbY3XZxZwMA__",
+          "https://hoilhpn.org.vn/documents/20182/3618027/21_Apr_2022_022213_GMTsp_pnkt_HCM.jpg/836c6d1d-8ca9-439c-bb11-40748d2a7f96",
         descImage:
           "Đoàn công tác đang chia sẻ về các chính sách pháp luật và hoà nhập khuyết tật",
-        content: `Ngày 03-04/5/2024, Viện ACDC phối hợp cùng Sở Lao động – Thương binh và Xã hội, Trung tâm Trợ giúp pháp lý tỉnh và các tổ chức hỗ trợ người khuyết tật tỉnh Bình Định tổ chức tư vấn pháp luật và hoà nhập xã hội cho người khuyết tật huyện Tây Sơn. Sự kiện được diễn ra trong khuôn khổ dự án Hỗ trợ cải thiện chất lượng sống của người khuyết tật tại các tỉnh bị phun rải nặng chất da cam tại tỉnh Bình Định.\nĐoàn tư vấn pháp luật và hỗ trợ hoà nhập có sự tham gia của bà Vũ Thị Tuyết Mai – Giám đốc dự án; bà Lê Hải Yến, Trưởng phòng Luật Viện ACDC; bà Nguyễn Thị Thúy Hằng, đại diện Sở Lao động – Thương binh và Xã hội tỉnh; ông Lê Thành Sơn – Phó Giám đốc Trung tâm Trợ giúp pháp lý nhà nước tỉnh; ông Bùi Trung Dũng – Phó Chủ tịch Hội Bảo trợ người khuyết tật và Bảo vệ quyền trẻ em tỉnh; bà Nguyễn Thị Kim Vân – Phó Giám đốc Trung tâm giáo dục nghề nghiệp tỉnh; bà Trần Thị Thúy Nga – Phó Giám đốc Phòng Giao dịch Ngân hàng Chính sách xã hội huyện Tây Sơn.\nMục tiêu của hoạt động nhằm nâng cao hiểu biết cho người khuyết tật hoặc gia đình người khuyết tật về các chính sách, pháp luật hiện hành liên quan đến người khuyết tật; giúp tư vấn, giải đáp trực tiếp các câu hỏi, vụ việc liên quan đến pháp luật như cho người khuyết tật hoặc gia đình của người khuyết tật có nhu cầu.\nChia sẻ tại buổi tư vấn, ông Nguyễn Hữu Vinh, Trưởng phòng pháp luật về lao động xã hội, Trung tâm Trợ giúp pháp lý tỉnh Bình Định: Người dân đến tham gia hoạt động rất đông, và có nhiều thắc mắc không hiểu, cần được giải đáp. Người khuyết tật và người thân do tôi tư vấn đa phần là vấn đề thừa kế, về thủ tục làm giấy chứng nhận quyền sử dụng đất, tài sản trên đất… Hình thức tư vấn trực tiếp như thế này vô cùng hiệu quả và thiết thực với người khuyết tật.`,
+        content: `Chương trình "Vẻ đẹp vầng trăng khuyết" dành không gian trưng bày, giới thiệu các sản phẩm do phụ nữ khuyết tật thực hiện.
+
+Ngày 14/4, Hội LHPN TPHCM tổ chức chương trình "Vẻ đẹp vầng trăng khuyết" năm 2022, tại Hội trường Công ty Cổ phần Du lịch Hòa Bình (60, Võ Văn Tần, Quận 3, TPHCM). Chương trình còn có sự đồng hành của một số tổ chức, đơn vị, cá nhân trên địa bàn, nhằm góp phần nâng cao năng lực cho phụ nữ yếu thế, hưởng ứng hoạt động kỷ niệm Ngày Người khuyết tật Việt Nam (18/4).`,
       },
       {
         id: 2,
@@ -328,7 +398,11 @@ Quà tặng kỷ yếu không chỉ là một món quà vật chất mà còn ma
           "https://s3-alpha-sig.figma.com/img/433c/42af/8f00633cf3ad3948ac1fd4b1f9b48b2e?Expires=1724025600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=HqBy209rek5vAr7PipdOUY5dxsElHDF7Kg~aMDOOS4SahN-~jPkfKg7g9a6ygsAcoUMkjdjt9P-pqc5csMXg5ZZG5l7820KpXRcin9T~dp-FWVnrVwluPHW1zt-eVhk7DruLB2Lw1XayV80NB8HkldZ~oO7G30rKx7OJaEe1qeBZs9OtNmjxLQ8KX1Bycz3IwyFPfPDAgM4TZ~EvBRa32KhJ0URMx9IselOYdM9AIgW~Nbb6rktwUftFw8hhSV~LIEsC2rogqPTCsljaphMXd6WLYwTsyo3SSfst-aML8yz~PHeNKjH0euT6RoVfBYTnAq5extgKypQsEmgAkBdvJQ__",
         descImage:
           "Đoàn công tác đang chia sẻ về các chính sách pháp luật và hoà nhập khuyết tật",
-        content: `Chia sẻ sau khi được tư vấn, chị N.T.N.L, người nhà của người khuyết tật tại xã Bình Nghi cho biết: Tôi hôm nay đến với mong muốn giải đáp câu hỏi về tăng trợ cấp cho người khuyết tật. Sau khi được tư vấn, tôi hiểu rõ được mức trợ cấp hiện tại là mức cao nhất của tỉnh. Tôi rất hài lòng với cách tư vấn tận tình và cặn kẽ của đoàn.\n\nÔng V.T, người khuyết tật xã Bình Hoà nói: Từ lâu, tôi đã băn khoăn về quyền thừa kế của mình nhưng không biết hỏi ai. Giờ được đoàn tư vấn quy trình thực hiện, tôi sẽ làm theo hướng dẫn và biết tìm đến đâu để được hỗ trợ.\nChị T.T.C, người khuyết tật vui mừng chia sẻ: Đây là lần đầu tiên tôi được tham gia một sự kiện như thế này. Buổi tư vấn vô cùng bổ ích vì được giải đáp từng vấn đề riêng của từng người. Tôi mong có nhiều hơn nữa hoạt động như thế này, vì người khuyết tật chúng tôi tiếp cận thông tin rất hạn chế. Tôi vô cùng biết ơn đoàn tư vấn đã đến tận nơi, hỗ trợ tận tình cho chúng tôi.\nHoạt động nằm trong khuôn khổ dự án “Hỗ trợ cải thiện chất lượng sống của người khuyết tật tại các tỉnh bị phun rải nặng chất da cam” (gọi tắt là Dự án Hoà nhập II) tại tỉnh Bình Định và Kon Tum giai đoạn 2023 – 2026, do Cơ quan Phát triển Quốc tế Hoa Kỳ (USAID) tài trợ, Trung tâm hành động quốc gia khắc phục hậu quả chất độc hóa học và môi trường (NACCET) thuộc Bộ Quốc phòng làm Chủ dự án. Viện ACDC là một trong các đối tác triển khai các hoạt động dưới sự quản lý của Humanity & Inclusion (HI).`,
+        content: `Chia sẻ sau khi được tư vấn, chị N.T.N.L, người nhà của người khuyết tật tại xã Bình Nghi cho biết: Tôi hôm nay đến với mong muốn giải đáp câu hỏi về tăng trợ cấp cho người khuyết tật. Sau khi được tư vấn, tôi hiểu rõ được mức trợ cấp hiện tại là mức cao nhất của tỉnh. Tôi rất hài lòng với cách tư vấn tận tình và cặn kẽ của đoàn.\n\nÔng V.T, người khuyết tật xã Bình Hoà nói: Từ lâu, tôi đã băn khoăn về quyền thừa kế của mình nhưng không biết hỏi ai. Giờ được đoàn tư vấn quy trình thực hiện, tôi sẽ làm theo hướng dẫn và biết tìm đến đâu để được hỗ trợ.\nChị T.T.C, người khuyết tật vui mừng chia sẻ: Đây là lần đầu tiên tôi được tham gia một sự kiện như thế này. Buổi tư vấn vô cùng bổ ích vì được giải đáp từng vấn đề riêng của từng người. Tôi mong có nhiều hơn nữa hoạt động như thế này, vì người khuyết tật chúng tôi tiếp cận thông tin rất hạn chế. Tôi vô cùng biết ơn đoàn tư vấn đã đến tận nơi, hỗ trợ tận tình cho chúng tôi.\nHoạt động nằm trong khuôn khổ dự án “Hỗ trợ cải thiện chất lượng sống của người khuyết tật tại các tỉnh bị phun rải nặng chất da cam” (gọi tắt là Dự án Hoà nhập II) tại tỉnh Bình Định và Kon Tum giai đoạn 2023 – 2026, do Cơ quan Phát triển Quốc tế Hoa Kỳ (USAID) tài trợ, Trung tâm hành động quốc gia khắc phục hậu quả chất độc hóa học và môi trường (NACCET) thuộc Bộ Quốc phòng làm Chủ dự án. Viện ACDC là một trong các đối tác triển khai các hoạt động dưới sự quản lý của Humanity & Inclusion (HI).
+        
+        Chương trình "Vẻ đẹp vầng trăng khuyết" là cầu nối cho nhiều gương phụ nữ khuyết tật tiêu biểu tại TPHCM có buổi giao lưu, trò chuyện và chia sẻ với nhau về con đường vượt lên số phận của chính mình. Đây còn là dịp để các chị trưng bày gian hàng giới thiệu những sản phẩm, tìm kiếm đối tác. Những mảnh đời ấy, có người bị khuyết tật chân tay bẩm sinh, có người bị khiếm thính, khiếm thị, có chị bị tai nạn trong cuộc sống nhưng ở họ chung một điểm là: Kiên trì vượt khó. Số phận càng gập ghềnh họ càng sáng tạo, càng có sức sống mãnh liệt để tạo ra những sản phẩm chất lượng, mang lại nguồn thu nhập ổn định cho bản thân và giúp ích cho xã hội.
+        
+        Đặc biệt, chương trình dành một không gian rộng đặt 17 gian hàng trưng bày, giới thiệu các sản phẩm do phụ nữ khuyết tật thực hiện. Đa số các sản phẩm là hàng thủ công như túi, giỏ, balo, tranh ốc, tranh giấy xoắn, trang sức… Các sản phẩm được làm một cách khéo léo, mẫu mã độc lạ thu hút rất nhiều người tiêu dùng quan tâm.`,
       },
     ],
   },
@@ -336,205 +410,60 @@ Quà tặng kỷ yếu không chỉ là một món quà vật chất mà còn ma
     id: 10,
     author: "HUYỀN TRANG",
     thumnail:
-      "https://s3-alpha-sig.figma.com/img/449e/d22e/31636dceffc9c2a85517b6cccf9eb77e?Expires=1722211200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=fFlqMRzgEOonMTqhIA4lGLoMyO~NoS-7J95zp083zriox1PioZC5B4w2AB8bI1WDUjr8xG01lvt49LHwb-xzpWOTb1LauB2-OhPTXHyhLfOt~aHljKiFQbSoEvRTDjOVtsUlw4sXvCoUCxqTGGfFZs7noWPWiJwyFaUZg-OC1XaCAhvQcvx4jWwdHufxy1~ofXu0LyhxT540fNxkQe3DSvI-D~NtLVFwPGGjF5ixZR7ntKKPZjEsmBZflBci6gLpsFV-Tgb1TSrfdd9BWd4YSj9N-8t0NELrcSFZm3othlpqmH3N2qXx6QZpVLvixU5Itik-bFJJ35VOH8EXAyjpog__",
-    title: "Câu chuyện đầy cảm hứng của Huyền Trang",
+      "https://cdn.tuoitre.vn/thumb_w/800/471584752817336320/2023/3/28/base64-1679973367493681307658.png",
+    title: "Hai cô gái khuyết tật lập doanh nghiệp xã hội xanh",
     description:
-      "Là tình nguyện viên của UNICEF, công việc của Huyền Trang là thúc đẩy quyền của trẻ em khuyết tật. Bài viết dưới đây sẽ chia sẻ cho bạn đọc về công việc cũng như cảm xúc của cô khi đồng hành cùng các hoạt động của UNICEF",
-    dateTime: "10 ngày trước",
-    day: "06/06/2024",
+      "Đi xe lăn đến phố sách, hai cô gái mời chào khách hàng tham quan gian hàng. Ai cũng trầm trồ xuýt xoa trước những sản phẩm thủ công do chính tay những người khuyết tật làm ra.",
+    dateTime: "",
+    day: "28/03/2023 ",
     subContent: [
       {
         id: 1,
         imageUrl:
-          "https://s3-alpha-sig.figma.com/img/b0d8/d56f/c1806f8883cbd4c5998f024877c5c3dd?Expires=1724025600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=chBwMqRwQ3QcpdnOWqGo4bNLveTN7k02KhlgBxXquDyqgGd2RnuQSM87y27KtbiV1lV0wq7-BjXdbdgVjTjF-YcYHFQTEe4dQEBM52gokeqSE4Iy4rfHeRKGQgEmK8IepgDpG1dYXZcc0b6lBWogMzMclZ57LhkNgxgQkCQ9FbxK~MGQZSiXveT-JTgBmAL~UhguyGCeYkO4NKdMeMd4JrtZYfyx0eWLfcm~6vzDGesFQvBdcACLEX4WXNjzhMKBHM-NMAchV7psP4353qnJyxdgj0s19ttftwtY~wwX~ZMwOWljsl4AEiCKROO~SpWREe5VIPrWXGzfbY3XZxZwMA__",
+          "https://cdn.tuoitre.vn/thumb_w/800/471584752817336320/2023/3/28/base64-1679973367493681307658.png",
         descImage:
-          "Đoàn công tác đang chia sẻ về các chính sách pháp luật và hoà nhập khuyết tật",
-        content: `Ngày 03-04/5/2024, Viện ACDC phối hợp cùng Sở Lao động – Thương binh và Xã hội, Trung tâm Trợ giúp pháp lý tỉnh và các tổ chức hỗ trợ người khuyết tật tỉnh Bình Định tổ chức tư vấn pháp luật và hoà nhập xã hội cho người khuyết tật huyện Tây Sơn. Sự kiện được diễn ra trong khuôn khổ dự án Hỗ trợ cải thiện chất lượng sống của người khuyết tật tại các tỉnh bị phun rải nặng chất da cam tại tỉnh Bình Định.\nĐoàn tư vấn pháp luật và hỗ trợ hoà nhập có sự tham gia của bà Vũ Thị Tuyết Mai – Giám đốc dự án; bà Lê Hải Yến, Trưởng phòng Luật Viện ACDC; bà Nguyễn Thị Thúy Hằng, đại diện Sở Lao động – Thương binh và Xã hội tỉnh; ông Lê Thành Sơn – Phó Giám đốc Trung tâm Trợ giúp pháp lý nhà nước tỉnh; ông Bùi Trung Dũng – Phó Chủ tịch Hội Bảo trợ người khuyết tật và Bảo vệ quyền trẻ em tỉnh; bà Nguyễn Thị Kim Vân – Phó Giám đốc Trung tâm giáo dục nghề nghiệp tỉnh; bà Trần Thị Thúy Nga – Phó Giám đốc Phòng Giao dịch Ngân hàng Chính sách xã hội huyện Tây Sơn.\nMục tiêu của hoạt động nhằm nâng cao hiểu biết cho người khuyết tật hoặc gia đình người khuyết tật về các chính sách, pháp luật hiện hành liên quan đến người khuyết tật; giúp tư vấn, giải đáp trực tiếp các câu hỏi, vụ việc liên quan đến pháp luật như cho người khuyết tật hoặc gia đình của người khuyết tật có nhu cầu.\nChia sẻ tại buổi tư vấn, ông Nguyễn Hữu Vinh, Trưởng phòng pháp luật về lao động xã hội, Trung tâm Trợ giúp pháp lý tỉnh Bình Định: Người dân đến tham gia hoạt động rất đông, và có nhiều thắc mắc không hiểu, cần được giải đáp. Người khuyết tật và người thân do tôi tư vấn đa phần là vấn đề thừa kế, về thủ tục làm giấy chứng nhận quyền sử dụng đất, tài sản trên đất… Hình thức tư vấn trực tiếp như thế này vô cùng hiệu quả và thiết thực với người khuyết tật.`,
+          "Hai cô gái khuyết tật Nguyễn Thùy Chi (trái) và Lưu Thị Hiếu sáng lập doanh nghiệp 'Chạm vào xanh'",
+        content: `"Không một cộng đồng nào phát triển được mà chỉ dựa vào đi xin tiền tài trợ. Quan điểm của chúng tôi chính là không ai cứu mình được tốt hơn cho bằng chính mình" - chị Nguyễn Thùy Chi (33 tuổi, phó giám đốc doanh nghiệp xã hội "Chạm vào xanh") quả quyết.
+        
+        Hành trình trên chiếc xe lăn
+Là chủ nhiệm Câu lạc bộ CP trưởng thành (cerebral palsy - tạm dịch: bại não - một rối loạn thần kinh cơ gây ra bởi tổn thương vỏ não vận động của não đang phát triển), mối duyên đã đưa Chi gặp gỡ người cộng sự là Lưu Thị Hiếu (ở Hà Nội).
+
+Cả hai cùng chung ý tưởng xây dựng một "mái nhà" mà ở đó các bạn khuyết tật nói chung và người CP nói riêng đều có cơ hội để làm việc, tạo một môi trường sáng tạo để ai ai cũng có thể tìm thấy niềm vui.
+
+Để thực hiện ý tưởng của mình, trên chiếc xe lăn, hai cô gái "lăn" khắp nơi, tìm kiếm các nguồn tài trợ, kết nối các thành viên để vận hành doanh nghiệp.`,
       },
       {
         id: 2,
         imageUrl:
-          "https://s3-alpha-sig.figma.com/img/433c/42af/8f00633cf3ad3948ac1fd4b1f9b48b2e?Expires=1724025600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=HqBy209rek5vAr7PipdOUY5dxsElHDF7Kg~aMDOOS4SahN-~jPkfKg7g9a6ygsAcoUMkjdjt9P-pqc5csMXg5ZZG5l7820KpXRcin9T~dp-FWVnrVwluPHW1zt-eVhk7DruLB2Lw1XayV80NB8HkldZ~oO7G30rKx7OJaEe1qeBZs9OtNmjxLQ8KX1Bycz3IwyFPfPDAgM4TZ~EvBRa32KhJ0URMx9IselOYdM9AIgW~Nbb6rktwUftFw8hhSV~LIEsC2rogqPTCsljaphMXd6WLYwTsyo3SSfst-aML8yz~PHeNKjH0euT6RoVfBYTnAq5extgKypQsEmgAkBdvJQ__",
+          "https://cdn.tuoitre.vn/thumb_w/800/471584752817336320/2023/3/28/base64-1679973367591252276772.png",
         descImage:
-          "Đoàn công tác đang chia sẻ về các chính sách pháp luật và hoà nhập khuyết tật",
-        content: `Chia sẻ sau khi được tư vấn, chị N.T.N.L, người nhà của người khuyết tật tại xã Bình Nghi cho biết: Tôi hôm nay đến với mong muốn giải đáp câu hỏi về tăng trợ cấp cho người khuyết tật. Sau khi được tư vấn, tôi hiểu rõ được mức trợ cấp hiện tại là mức cao nhất của tỉnh. Tôi rất hài lòng với cách tư vấn tận tình và cặn kẽ của đoàn.\n\nÔng V.T, người khuyết tật xã Bình Hoà nói: Từ lâu, tôi đã băn khoăn về quyền thừa kế của mình nhưng không biết hỏi ai. Giờ được đoàn tư vấn quy trình thực hiện, tôi sẽ làm theo hướng dẫn và biết tìm đến đâu để được hỗ trợ.\nChị T.T.C, người khuyết tật vui mừng chia sẻ: Đây là lần đầu tiên tôi được tham gia một sự kiện như thế này. Buổi tư vấn vô cùng bổ ích vì được giải đáp từng vấn đề riêng của từng người. Tôi mong có nhiều hơn nữa hoạt động như thế này, vì người khuyết tật chúng tôi tiếp cận thông tin rất hạn chế. Tôi vô cùng biết ơn đoàn tư vấn đã đến tận nơi, hỗ trợ tận tình cho chúng tôi.\nHoạt động nằm trong khuôn khổ dự án “Hỗ trợ cải thiện chất lượng sống của người khuyết tật tại các tỉnh bị phun rải nặng chất da cam” (gọi tắt là Dự án Hoà nhập II) tại tỉnh Bình Định và Kon Tum giai đoạn 2023 – 2026, do Cơ quan Phát triển Quốc tế Hoa Kỳ (USAID) tài trợ, Trung tâm hành động quốc gia khắc phục hậu quả chất độc hóa học và môi trường (NACCET) thuộc Bộ Quốc phòng làm Chủ dự án. Viện ACDC là một trong các đối tác triển khai các hoạt động dưới sự quản lý của Humanity & Inclusion (HI).`,
-      },
-    ],
-  },
-  {
-    id: 11,
-    author: "ĐẶNG THÙY LINH",
-    thumnail:
-      "https://s3-alpha-sig.figma.com/img/25ba/9bf1/f50e02f03e31ac2c49e8ba3269f09a1d?Expires=1722211200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=HOxxIrdolrC0jsnVlnJ5hlDlGbw4IzTKC7Yp3oHvsLdkL8g8IfX9H4c1zfR9KzGwTuoCBM7PCmEbwvZmRlTKDIcaACUHqb1r8TSG3Dlx66KcygJ2PzbVNUPI6FC493H3DuNeBWM9b1Vf2ZPZZYBCpzSG331eKMhYhidzGzxjL7yZlhxZQXfjD7Ap9EQyZOxzzUwgZBOXpTzxY~efOA8DpQO2R7eYz7eCUiZgkpc4wenXPXytqU5xWmbcqodWyu3rSB7XnAg76pdndRdzoDbvJXlo4hmqfQjaOsBd-zyCyMS4t9q6OfVCIlqeDJk029UQG0F5Dwup-MT-r7AumxsEtg__",
-    title: "Câu chuyện của Mai làm thúc đẩy nghề công tác xã hội tại Việt Nam",
-    description:
-      "Mình là một người phụ nữ mang trên mình khuyết tật về thể chất. Mình sinh ra và lớn lên tại Hà Nội, thủ đô của Việt Nam. Chuyện kể rằng, mình được sinh ra vào thời kỳ sau chiến tranh. ",
-    dateTime: "12 ngày trước",
-    day: "06/06/2024",
-    subContent: [
-      {
-        id: 1,
-        imageUrl:
-          "https://s3-alpha-sig.figma.com/img/b0d8/d56f/c1806f8883cbd4c5998f024877c5c3dd?Expires=1724025600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=chBwMqRwQ3QcpdnOWqGo4bNLveTN7k02KhlgBxXquDyqgGd2RnuQSM87y27KtbiV1lV0wq7-BjXdbdgVjTjF-YcYHFQTEe4dQEBM52gokeqSE4Iy4rfHeRKGQgEmK8IepgDpG1dYXZcc0b6lBWogMzMclZ57LhkNgxgQkCQ9FbxK~MGQZSiXveT-JTgBmAL~UhguyGCeYkO4NKdMeMd4JrtZYfyx0eWLfcm~6vzDGesFQvBdcACLEX4WXNjzhMKBHM-NMAchV7psP4353qnJyxdgj0s19ttftwtY~wwX~ZMwOWljsl4AEiCKROO~SpWREe5VIPrWXGzfbY3XZxZwMA__",
-        descImage:
-          "Đoàn công tác đang chia sẻ về các chính sách pháp luật và hoà nhập khuyết tật",
-        content: `Ngày 03-04/5/2024, Viện ACDC phối hợp cùng Sở Lao động – Thương binh và Xã hội, Trung tâm Trợ giúp pháp lý tỉnh và các tổ chức hỗ trợ người khuyết tật tỉnh Bình Định tổ chức tư vấn pháp luật và hoà nhập xã hội cho người khuyết tật huyện Tây Sơn. Sự kiện được diễn ra trong khuôn khổ dự án Hỗ trợ cải thiện chất lượng sống của người khuyết tật tại các tỉnh bị phun rải nặng chất da cam tại tỉnh Bình Định.\nĐoàn tư vấn pháp luật và hỗ trợ hoà nhập có sự tham gia của bà Vũ Thị Tuyết Mai – Giám đốc dự án; bà Lê Hải Yến, Trưởng phòng Luật Viện ACDC; bà Nguyễn Thị Thúy Hằng, đại diện Sở Lao động – Thương binh và Xã hội tỉnh; ông Lê Thành Sơn – Phó Giám đốc Trung tâm Trợ giúp pháp lý nhà nước tỉnh; ông Bùi Trung Dũng – Phó Chủ tịch Hội Bảo trợ người khuyết tật và Bảo vệ quyền trẻ em tỉnh; bà Nguyễn Thị Kim Vân – Phó Giám đốc Trung tâm giáo dục nghề nghiệp tỉnh; bà Trần Thị Thúy Nga – Phó Giám đốc Phòng Giao dịch Ngân hàng Chính sách xã hội huyện Tây Sơn.\nMục tiêu của hoạt động nhằm nâng cao hiểu biết cho người khuyết tật hoặc gia đình người khuyết tật về các chính sách, pháp luật hiện hành liên quan đến người khuyết tật; giúp tư vấn, giải đáp trực tiếp các câu hỏi, vụ việc liên quan đến pháp luật như cho người khuyết tật hoặc gia đình của người khuyết tật có nhu cầu.\nChia sẻ tại buổi tư vấn, ông Nguyễn Hữu Vinh, Trưởng phòng pháp luật về lao động xã hội, Trung tâm Trợ giúp pháp lý tỉnh Bình Định: Người dân đến tham gia hoạt động rất đông, và có nhiều thắc mắc không hiểu, cần được giải đáp. Người khuyết tật và người thân do tôi tư vấn đa phần là vấn đề thừa kế, về thủ tục làm giấy chứng nhận quyền sử dụng đất, tài sản trên đất… Hình thức tư vấn trực tiếp như thế này vô cùng hiệu quả và thiết thực với người khuyết tật.`,
-      },
-      {
-        id: 2,
-        imageUrl:
-          "https://s3-alpha-sig.figma.com/img/433c/42af/8f00633cf3ad3948ac1fd4b1f9b48b2e?Expires=1724025600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=HqBy209rek5vAr7PipdOUY5dxsElHDF7Kg~aMDOOS4SahN-~jPkfKg7g9a6ygsAcoUMkjdjt9P-pqc5csMXg5ZZG5l7820KpXRcin9T~dp-FWVnrVwluPHW1zt-eVhk7DruLB2Lw1XayV80NB8HkldZ~oO7G30rKx7OJaEe1qeBZs9OtNmjxLQ8KX1Bycz3IwyFPfPDAgM4TZ~EvBRa32KhJ0URMx9IselOYdM9AIgW~Nbb6rktwUftFw8hhSV~LIEsC2rogqPTCsljaphMXd6WLYwTsyo3SSfst-aML8yz~PHeNKjH0euT6RoVfBYTnAq5extgKypQsEmgAkBdvJQ__",
-        descImage:
-          "Đoàn công tác đang chia sẻ về các chính sách pháp luật và hoà nhập khuyết tật",
-        content: `Chia sẻ sau khi được tư vấn, chị N.T.N.L, người nhà của người khuyết tật tại xã Bình Nghi cho biết: Tôi hôm nay đến với mong muốn giải đáp câu hỏi về tăng trợ cấp cho người khuyết tật. Sau khi được tư vấn, tôi hiểu rõ được mức trợ cấp hiện tại là mức cao nhất của tỉnh. Tôi rất hài lòng với cách tư vấn tận tình và cặn kẽ của đoàn.\n\nÔng V.T, người khuyết tật xã Bình Hoà nói: Từ lâu, tôi đã băn khoăn về quyền thừa kế của mình nhưng không biết hỏi ai. Giờ được đoàn tư vấn quy trình thực hiện, tôi sẽ làm theo hướng dẫn và biết tìm đến đâu để được hỗ trợ.\nChị T.T.C, người khuyết tật vui mừng chia sẻ: Đây là lần đầu tiên tôi được tham gia một sự kiện như thế này. Buổi tư vấn vô cùng bổ ích vì được giải đáp từng vấn đề riêng của từng người. Tôi mong có nhiều hơn nữa hoạt động như thế này, vì người khuyết tật chúng tôi tiếp cận thông tin rất hạn chế. Tôi vô cùng biết ơn đoàn tư vấn đã đến tận nơi, hỗ trợ tận tình cho chúng tôi.\nHoạt động nằm trong khuôn khổ dự án “Hỗ trợ cải thiện chất lượng sống của người khuyết tật tại các tỉnh bị phun rải nặng chất da cam” (gọi tắt là Dự án Hoà nhập II) tại tỉnh Bình Định và Kon Tum giai đoạn 2023 – 2026, do Cơ quan Phát triển Quốc tế Hoa Kỳ (USAID) tài trợ, Trung tâm hành động quốc gia khắc phục hậu quả chất độc hóa học và môi trường (NACCET) thuộc Bộ Quốc phòng làm Chủ dự án. Viện ACDC là một trong các đối tác triển khai các hoạt động dưới sự quản lý của Humanity & Inclusion (HI).`,
-      },
-    ],
-  },
-  {
-    id: 12,
-    author: "TRỊNH THANH THANH",
-    thumnail:
-      "https://s3-alpha-sig.figma.com/img/40de/27d5/9da5bd41c4ea9b4847cbf646f43d147f?Expires=1722211200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=XMySwCiju26Bqu1m38CAWzvpe5ilKBpzEO82RT2HlSmhNKnxaqNRHQf0twXMFkPizQIEHGsof0pFAa9Unu8h2u9GZEjVNNuS7T8stBSJ2R1mRytJeF1t2D9Ez4U0PcHhjNxRvIMJ7fbmkQ~laB9wyOxQ8pZ7~BvP5~72F3g-MLS-Uc2E2QqG01RnLYd4fqUlybNSwmqlkrxA-VGkAjTEjIvuvxp~phw3~CzDNuElyfbuTFpno4Mqd06rlulJxvEcyiX6tha8bdne0jt7Emy3p5g2JOvIJ7oP-gXbacRP~SQ33jbvLwQ0lyiYc3iMIdBQ2D80Y0NBGzIO0ezIe2ikRQ__",
-    title:
-      "Phục hồi chức năng và chăm sóc tại nhà cho người khuyết tật - Kinh nghiệm từ dự án Hòa nhập 1",
-    description:
-      "Trong khuôn khổ dự án Hòa nhập 1 – Hợp phần do Viện Nghiên cứu phát triển cộng đồng...",
-    dateTime: "8 ngày trước",
-    day: "06/06/2024",
-    subContent: [
-      {
-        id: 1,
-        imageUrl:
-          "https://s3-alpha-sig.figma.com/img/b0d8/d56f/c1806f8883cbd4c5998f024877c5c3dd?Expires=1724025600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=chBwMqRwQ3QcpdnOWqGo4bNLveTN7k02KhlgBxXquDyqgGd2RnuQSM87y27KtbiV1lV0wq7-BjXdbdgVjTjF-YcYHFQTEe4dQEBM52gokeqSE4Iy4rfHeRKGQgEmK8IepgDpG1dYXZcc0b6lBWogMzMclZ57LhkNgxgQkCQ9FbxK~MGQZSiXveT-JTgBmAL~UhguyGCeYkO4NKdMeMd4JrtZYfyx0eWLfcm~6vzDGesFQvBdcACLEX4WXNjzhMKBHM-NMAchV7psP4353qnJyxdgj0s19ttftwtY~wwX~ZMwOWljsl4AEiCKROO~SpWREe5VIPrWXGzfbY3XZxZwMA__",
-        descImage:
-          "Đoàn công tác đang chia sẻ về các chính sách pháp luật và hoà nhập khuyết tật",
-        content: `Ngày 03-04/5/2024, Viện ACDC phối hợp cùng Sở Lao động – Thương binh và Xã hội, Trung tâm Trợ giúp pháp lý tỉnh và các tổ chức hỗ trợ người khuyết tật tỉnh Bình Định tổ chức tư vấn pháp luật và hoà nhập xã hội cho người khuyết tật huyện Tây Sơn. Sự kiện được diễn ra trong khuôn khổ dự án Hỗ trợ cải thiện chất lượng sống của người khuyết tật tại các tỉnh bị phun rải nặng chất da cam tại tỉnh Bình Định.\nĐoàn tư vấn pháp luật và hỗ trợ hoà nhập có sự tham gia của bà Vũ Thị Tuyết Mai – Giám đốc dự án; bà Lê Hải Yến, Trưởng phòng Luật Viện ACDC; bà Nguyễn Thị Thúy Hằng, đại diện Sở Lao động – Thương binh và Xã hội tỉnh; ông Lê Thành Sơn – Phó Giám đốc Trung tâm Trợ giúp pháp lý nhà nước tỉnh; ông Bùi Trung Dũng – Phó Chủ tịch Hội Bảo trợ người khuyết tật và Bảo vệ quyền trẻ em tỉnh; bà Nguyễn Thị Kim Vân – Phó Giám đốc Trung tâm giáo dục nghề nghiệp tỉnh; bà Trần Thị Thúy Nga – Phó Giám đốc Phòng Giao dịch Ngân hàng Chính sách xã hội huyện Tây Sơn.\nMục tiêu của hoạt động nhằm nâng cao hiểu biết cho người khuyết tật hoặc gia đình người khuyết tật về các chính sách, pháp luật hiện hành liên quan đến người khuyết tật; giúp tư vấn, giải đáp trực tiếp các câu hỏi, vụ việc liên quan đến pháp luật như cho người khuyết tật hoặc gia đình của người khuyết tật có nhu cầu.\nChia sẻ tại buổi tư vấn, ông Nguyễn Hữu Vinh, Trưởng phòng pháp luật về lao động xã hội, Trung tâm Trợ giúp pháp lý tỉnh Bình Định: Người dân đến tham gia hoạt động rất đông, và có nhiều thắc mắc không hiểu, cần được giải đáp. Người khuyết tật và người thân do tôi tư vấn đa phần là vấn đề thừa kế, về thủ tục làm giấy chứng nhận quyền sử dụng đất, tài sản trên đất… Hình thức tư vấn trực tiếp như thế này vô cùng hiệu quả và thiết thực với người khuyết tật.`,
-      },
-      {
-        id: 2,
-        imageUrl:
-          "https://s3-alpha-sig.figma.com/img/433c/42af/8f00633cf3ad3948ac1fd4b1f9b48b2e?Expires=1724025600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=HqBy209rek5vAr7PipdOUY5dxsElHDF7Kg~aMDOOS4SahN-~jPkfKg7g9a6ygsAcoUMkjdjt9P-pqc5csMXg5ZZG5l7820KpXRcin9T~dp-FWVnrVwluPHW1zt-eVhk7DruLB2Lw1XayV80NB8HkldZ~oO7G30rKx7OJaEe1qeBZs9OtNmjxLQ8KX1Bycz3IwyFPfPDAgM4TZ~EvBRa32KhJ0URMx9IselOYdM9AIgW~Nbb6rktwUftFw8hhSV~LIEsC2rogqPTCsljaphMXd6WLYwTsyo3SSfst-aML8yz~PHeNKjH0euT6RoVfBYTnAq5extgKypQsEmgAkBdvJQ__",
-        descImage:
-          "Đoàn công tác đang chia sẻ về các chính sách pháp luật và hoà nhập khuyết tật",
-        content: `Chia sẻ sau khi được tư vấn, chị N.T.N.L, người nhà của người khuyết tật tại xã Bình Nghi cho biết: Tôi hôm nay đến với mong muốn giải đáp câu hỏi về tăng trợ cấp cho người khuyết tật. Sau khi được tư vấn, tôi hiểu rõ được mức trợ cấp hiện tại là mức cao nhất của tỉnh. Tôi rất hài lòng với cách tư vấn tận tình và cặn kẽ của đoàn.\n\nÔng V.T, người khuyết tật xã Bình Hoà nói: Từ lâu, tôi đã băn khoăn về quyền thừa kế của mình nhưng không biết hỏi ai. Giờ được đoàn tư vấn quy trình thực hiện, tôi sẽ làm theo hướng dẫn và biết tìm đến đâu để được hỗ trợ.\nChị T.T.C, người khuyết tật vui mừng chia sẻ: Đây là lần đầu tiên tôi được tham gia một sự kiện như thế này. Buổi tư vấn vô cùng bổ ích vì được giải đáp từng vấn đề riêng của từng người. Tôi mong có nhiều hơn nữa hoạt động như thế này, vì người khuyết tật chúng tôi tiếp cận thông tin rất hạn chế. Tôi vô cùng biết ơn đoàn tư vấn đã đến tận nơi, hỗ trợ tận tình cho chúng tôi.\nHoạt động nằm trong khuôn khổ dự án “Hỗ trợ cải thiện chất lượng sống của người khuyết tật tại các tỉnh bị phun rải nặng chất da cam” (gọi tắt là Dự án Hoà nhập II) tại tỉnh Bình Định và Kon Tum giai đoạn 2023 – 2026, do Cơ quan Phát triển Quốc tế Hoa Kỳ (USAID) tài trợ, Trung tâm hành động quốc gia khắc phục hậu quả chất độc hóa học và môi trường (NACCET) thuộc Bộ Quốc phòng làm Chủ dự án. Viện ACDC là một trong các đối tác triển khai các hoạt động dưới sự quản lý của Humanity & Inclusion (HI).`,
-      },
-    ],
-  },
-  {
-    id: 13,
-    author: "NGUYỄN BÌNH MINH",
-    thumnail:
-      "https://s3-alpha-sig.figma.com/img/5de6/e000/5574fc4a0e59197d68720b19a03f0d08?Expires=1722211200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=XKhJpQ4XFGi3eqC9m0DvLqGuSX2-ER-fDVFpHkRqkGDppSPvIk2oWqUCXvxS84ePfx3fNiMpWh6~MrZIN99ZfzNpIQDxP5aR4P51t4CKRwKouznQRBxJv81RjO-7DLvB2P8U5Dt131qRxIC2GRp-p~HgFAimp2FhzntjpyjZeoir0PUo5UNYUAh5HaofqijWLjFB7R0pcc4OvCY~q29bx--Mo~IySh8m70W81IQk4Qe2rmhaviXdVh5dMeom2PfSCNwAM~xNtGqqCAxt6Z1cYbCrbL2lPQdh3iVDuDAlFxbBrerVEJERTWRg6bnxZvyGND43fc~40MnQ-WhATsIG1A__",
-    title: "Nhận biết và tìm hiểu về tiềm năng của trẻ em khuyết tật",
-    description:
-      "Mình là một người phụ nữ mang trên mình khuyết tật về thể chất. Mình sinh ra và lớn lên tại Hà Nội, thủ đô của Việt Nam. Chuyện kể rằng, mình được sinh ra vào thời kỳ sau chiến tranh. ",
-    dateTime: "18 ngày trước",
-    day: "06/06/2024",
-    subContent: [
-      {
-        id: 1,
-        imageUrl:
-          "https://s3-alpha-sig.figma.com/img/b0d8/d56f/c1806f8883cbd4c5998f024877c5c3dd?Expires=1724025600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=chBwMqRwQ3QcpdnOWqGo4bNLveTN7k02KhlgBxXquDyqgGd2RnuQSM87y27KtbiV1lV0wq7-BjXdbdgVjTjF-YcYHFQTEe4dQEBM52gokeqSE4Iy4rfHeRKGQgEmK8IepgDpG1dYXZcc0b6lBWogMzMclZ57LhkNgxgQkCQ9FbxK~MGQZSiXveT-JTgBmAL~UhguyGCeYkO4NKdMeMd4JrtZYfyx0eWLfcm~6vzDGesFQvBdcACLEX4WXNjzhMKBHM-NMAchV7psP4353qnJyxdgj0s19ttftwtY~wwX~ZMwOWljsl4AEiCKROO~SpWREe5VIPrWXGzfbY3XZxZwMA__",
-        descImage:
-          "Đoàn công tác đang chia sẻ về các chính sách pháp luật và hoà nhập khuyết tật",
-        content: `Ngày 03-04/5/2024, Viện ACDC phối hợp cùng Sở Lao động – Thương binh và Xã hội, Trung tâm Trợ giúp pháp lý tỉnh và các tổ chức hỗ trợ người khuyết tật tỉnh Bình Định tổ chức tư vấn pháp luật và hoà nhập xã hội cho người khuyết tật huyện Tây Sơn. Sự kiện được diễn ra trong khuôn khổ dự án Hỗ trợ cải thiện chất lượng sống của người khuyết tật tại các tỉnh bị phun rải nặng chất da cam tại tỉnh Bình Định.\nĐoàn tư vấn pháp luật và hỗ trợ hoà nhập có sự tham gia của bà Vũ Thị Tuyết Mai – Giám đốc dự án; bà Lê Hải Yến, Trưởng phòng Luật Viện ACDC; bà Nguyễn Thị Thúy Hằng, đại diện Sở Lao động – Thương binh và Xã hội tỉnh; ông Lê Thành Sơn – Phó Giám đốc Trung tâm Trợ giúp pháp lý nhà nước tỉnh; ông Bùi Trung Dũng – Phó Chủ tịch Hội Bảo trợ người khuyết tật và Bảo vệ quyền trẻ em tỉnh; bà Nguyễn Thị Kim Vân – Phó Giám đốc Trung tâm giáo dục nghề nghiệp tỉnh; bà Trần Thị Thúy Nga – Phó Giám đốc Phòng Giao dịch Ngân hàng Chính sách xã hội huyện Tây Sơn.\nMục tiêu của hoạt động nhằm nâng cao hiểu biết cho người khuyết tật hoặc gia đình người khuyết tật về các chính sách, pháp luật hiện hành liên quan đến người khuyết tật; giúp tư vấn, giải đáp trực tiếp các câu hỏi, vụ việc liên quan đến pháp luật như cho người khuyết tật hoặc gia đình của người khuyết tật có nhu cầu.\nChia sẻ tại buổi tư vấn, ông Nguyễn Hữu Vinh, Trưởng phòng pháp luật về lao động xã hội, Trung tâm Trợ giúp pháp lý tỉnh Bình Định: Người dân đến tham gia hoạt động rất đông, và có nhiều thắc mắc không hiểu, cần được giải đáp. Người khuyết tật và người thân do tôi tư vấn đa phần là vấn đề thừa kế, về thủ tục làm giấy chứng nhận quyền sử dụng đất, tài sản trên đất… Hình thức tư vấn trực tiếp như thế này vô cùng hiệu quả và thiết thực với người khuyết tật.`,
-      },
-      {
-        id: 2,
-        imageUrl:
-          "https://s3-alpha-sig.figma.com/img/433c/42af/8f00633cf3ad3948ac1fd4b1f9b48b2e?Expires=1724025600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=HqBy209rek5vAr7PipdOUY5dxsElHDF7Kg~aMDOOS4SahN-~jPkfKg7g9a6ygsAcoUMkjdjt9P-pqc5csMXg5ZZG5l7820KpXRcin9T~dp-FWVnrVwluPHW1zt-eVhk7DruLB2Lw1XayV80NB8HkldZ~oO7G30rKx7OJaEe1qeBZs9OtNmjxLQ8KX1Bycz3IwyFPfPDAgM4TZ~EvBRa32KhJ0URMx9IselOYdM9AIgW~Nbb6rktwUftFw8hhSV~LIEsC2rogqPTCsljaphMXd6WLYwTsyo3SSfst-aML8yz~PHeNKjH0euT6RoVfBYTnAq5extgKypQsEmgAkBdvJQ__",
-        descImage:
-          "Đoàn công tác đang chia sẻ về các chính sách pháp luật và hoà nhập khuyết tật",
-        content: `Chia sẻ sau khi được tư vấn, chị N.T.N.L, người nhà của người khuyết tật tại xã Bình Nghi cho biết: Tôi hôm nay đến với mong muốn giải đáp câu hỏi về tăng trợ cấp cho người khuyết tật. Sau khi được tư vấn, tôi hiểu rõ được mức trợ cấp hiện tại là mức cao nhất của tỉnh. Tôi rất hài lòng với cách tư vấn tận tình và cặn kẽ của đoàn.\n\nÔng V.T, người khuyết tật xã Bình Hoà nói: Từ lâu, tôi đã băn khoăn về quyền thừa kế của mình nhưng không biết hỏi ai. Giờ được đoàn tư vấn quy trình thực hiện, tôi sẽ làm theo hướng dẫn và biết tìm đến đâu để được hỗ trợ.\nChị T.T.C, người khuyết tật vui mừng chia sẻ: Đây là lần đầu tiên tôi được tham gia một sự kiện như thế này. Buổi tư vấn vô cùng bổ ích vì được giải đáp từng vấn đề riêng của từng người. Tôi mong có nhiều hơn nữa hoạt động như thế này, vì người khuyết tật chúng tôi tiếp cận thông tin rất hạn chế. Tôi vô cùng biết ơn đoàn tư vấn đã đến tận nơi, hỗ trợ tận tình cho chúng tôi.\nHoạt động nằm trong khuôn khổ dự án “Hỗ trợ cải thiện chất lượng sống của người khuyết tật tại các tỉnh bị phun rải nặng chất da cam” (gọi tắt là Dự án Hoà nhập II) tại tỉnh Bình Định và Kon Tum giai đoạn 2023 – 2026, do Cơ quan Phát triển Quốc tế Hoa Kỳ (USAID) tài trợ, Trung tâm hành động quốc gia khắc phục hậu quả chất độc hóa học và môi trường (NACCET) thuộc Bộ Quốc phòng làm Chủ dự án. Viện ACDC là một trong các đối tác triển khai các hoạt động dưới sự quản lý của Humanity & Inclusion (HI).`,
-      },
-    ],
-  },
-  {
-    id: 14,
-    author: "NGUYỄN ĐÌNH VŨ",
-    thumnail:
-      "https://s3-alpha-sig.figma.com/img/cf7c/9e57/ba26ff1b9194f02332970b7b3d8923d9?Expires=1722211200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=pkEHmUAhSexLT5sSw9y9-aeJU2LwWQ18zw90HY0Dtt-~W1oOb7H5kKY5qJVkdQPBcjPH3dpS8ccAmI8PfyMdyN09~ly15XzPaZmmhQPOkPKhYx2y9rOKD92KvpypWCkBaK8lvmPcsB-HVeYEbKyC5M0YGfedPga74J9TxkXJedPE1KmoDxVOWQy~cYq0eYb93RJ3sxFnxFTJS4jY2AqnA3ECBBSa4L6cyxXf3JsY0XmZ12xwLe3moxQzScvl0Rwv-OzVPG9dy-gJE~AFlKoUzC9fb4ucZDK40ThoEdt3OE0Nt992YCyBhqHV7ilpiSY9Yy7ugWapho9KUwYGwsmzJw__",
-    title:
-      "Cùng vẽ thêm “đôi chân” cho trẻ em khuyết tật từ hành trình nhà sáng chế trẻ",
-    description:
-      "Mình là một người phụ nữ mang trên mình khuyết tật về thể chất. Mình sinh ra và lớn lên tại Hà Nội, thủ đô của Việt Nam. Chuyện kể rằng, mình được sinh ra vào thời kỳ sau chiến tranh. ",
-    dateTime: "20 ngày trước",
-    day: "06/06/2024",
-    subContent: [
-      {
-        id: 1,
-        imageUrl:
-          "https://s3-alpha-sig.figma.com/img/b0d8/d56f/c1806f8883cbd4c5998f024877c5c3dd?Expires=1724025600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=chBwMqRwQ3QcpdnOWqGo4bNLveTN7k02KhlgBxXquDyqgGd2RnuQSM87y27KtbiV1lV0wq7-BjXdbdgVjTjF-YcYHFQTEe4dQEBM52gokeqSE4Iy4rfHeRKGQgEmK8IepgDpG1dYXZcc0b6lBWogMzMclZ57LhkNgxgQkCQ9FbxK~MGQZSiXveT-JTgBmAL~UhguyGCeYkO4NKdMeMd4JrtZYfyx0eWLfcm~6vzDGesFQvBdcACLEX4WXNjzhMKBHM-NMAchV7psP4353qnJyxdgj0s19ttftwtY~wwX~ZMwOWljsl4AEiCKROO~SpWREe5VIPrWXGzfbY3XZxZwMA__",
-        descImage:
-          "Đoàn công tác đang chia sẻ về các chính sách pháp luật và hoà nhập khuyết tật",
-        content: `Ngày 03-04/5/2024, Viện ACDC phối hợp cùng Sở Lao động – Thương binh và Xã hội, Trung tâm Trợ giúp pháp lý tỉnh và các tổ chức hỗ trợ người khuyết tật tỉnh Bình Định tổ chức tư vấn pháp luật và hoà nhập xã hội cho người khuyết tật huyện Tây Sơn. Sự kiện được diễn ra trong khuôn khổ dự án Hỗ trợ cải thiện chất lượng sống của người khuyết tật tại các tỉnh bị phun rải nặng chất da cam tại tỉnh Bình Định.\nĐoàn tư vấn pháp luật và hỗ trợ hoà nhập có sự tham gia của bà Vũ Thị Tuyết Mai – Giám đốc dự án; bà Lê Hải Yến, Trưởng phòng Luật Viện ACDC; bà Nguyễn Thị Thúy Hằng, đại diện Sở Lao động – Thương binh và Xã hội tỉnh; ông Lê Thành Sơn – Phó Giám đốc Trung tâm Trợ giúp pháp lý nhà nước tỉnh; ông Bùi Trung Dũng – Phó Chủ tịch Hội Bảo trợ người khuyết tật và Bảo vệ quyền trẻ em tỉnh; bà Nguyễn Thị Kim Vân – Phó Giám đốc Trung tâm giáo dục nghề nghiệp tỉnh; bà Trần Thị Thúy Nga – Phó Giám đốc Phòng Giao dịch Ngân hàng Chính sách xã hội huyện Tây Sơn.\nMục tiêu của hoạt động nhằm nâng cao hiểu biết cho người khuyết tật hoặc gia đình người khuyết tật về các chính sách, pháp luật hiện hành liên quan đến người khuyết tật; giúp tư vấn, giải đáp trực tiếp các câu hỏi, vụ việc liên quan đến pháp luật như cho người khuyết tật hoặc gia đình của người khuyết tật có nhu cầu.\nChia sẻ tại buổi tư vấn, ông Nguyễn Hữu Vinh, Trưởng phòng pháp luật về lao động xã hội, Trung tâm Trợ giúp pháp lý tỉnh Bình Định: Người dân đến tham gia hoạt động rất đông, và có nhiều thắc mắc không hiểu, cần được giải đáp. Người khuyết tật và người thân do tôi tư vấn đa phần là vấn đề thừa kế, về thủ tục làm giấy chứng nhận quyền sử dụng đất, tài sản trên đất… Hình thức tư vấn trực tiếp như thế này vô cùng hiệu quả và thiết thực với người khuyết tật.`,
-      },
-      {
-        id: 2,
-        imageUrl:
-          "https://s3-alpha-sig.figma.com/img/433c/42af/8f00633cf3ad3948ac1fd4b1f9b48b2e?Expires=1724025600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=HqBy209rek5vAr7PipdOUY5dxsElHDF7Kg~aMDOOS4SahN-~jPkfKg7g9a6ygsAcoUMkjdjt9P-pqc5csMXg5ZZG5l7820KpXRcin9T~dp-FWVnrVwluPHW1zt-eVhk7DruLB2Lw1XayV80NB8HkldZ~oO7G30rKx7OJaEe1qeBZs9OtNmjxLQ8KX1Bycz3IwyFPfPDAgM4TZ~EvBRa32KhJ0URMx9IselOYdM9AIgW~Nbb6rktwUftFw8hhSV~LIEsC2rogqPTCsljaphMXd6WLYwTsyo3SSfst-aML8yz~PHeNKjH0euT6RoVfBYTnAq5extgKypQsEmgAkBdvJQ__",
-        descImage:
-          "Đoàn công tác đang chia sẻ về các chính sách pháp luật và hoà nhập khuyết tật",
-        content: `Chia sẻ sau khi được tư vấn, chị N.T.N.L, người nhà của người khuyết tật tại xã Bình Nghi cho biết: Tôi hôm nay đến với mong muốn giải đáp câu hỏi về tăng trợ cấp cho người khuyết tật. Sau khi được tư vấn, tôi hiểu rõ được mức trợ cấp hiện tại là mức cao nhất của tỉnh. Tôi rất hài lòng với cách tư vấn tận tình và cặn kẽ của đoàn.\n\nÔng V.T, người khuyết tật xã Bình Hoà nói: Từ lâu, tôi đã băn khoăn về quyền thừa kế của mình nhưng không biết hỏi ai. Giờ được đoàn tư vấn quy trình thực hiện, tôi sẽ làm theo hướng dẫn và biết tìm đến đâu để được hỗ trợ.\nChị T.T.C, người khuyết tật vui mừng chia sẻ: Đây là lần đầu tiên tôi được tham gia một sự kiện như thế này. Buổi tư vấn vô cùng bổ ích vì được giải đáp từng vấn đề riêng của từng người. Tôi mong có nhiều hơn nữa hoạt động như thế này, vì người khuyết tật chúng tôi tiếp cận thông tin rất hạn chế. Tôi vô cùng biết ơn đoàn tư vấn đã đến tận nơi, hỗ trợ tận tình cho chúng tôi.\nHoạt động nằm trong khuôn khổ dự án “Hỗ trợ cải thiện chất lượng sống của người khuyết tật tại các tỉnh bị phun rải nặng chất da cam” (gọi tắt là Dự án Hoà nhập II) tại tỉnh Bình Định và Kon Tum giai đoạn 2023 – 2026, do Cơ quan Phát triển Quốc tế Hoa Kỳ (USAID) tài trợ, Trung tâm hành động quốc gia khắc phục hậu quả chất độc hóa học và môi trường (NACCET) thuộc Bộ Quốc phòng làm Chủ dự án. Viện ACDC là một trong các đối tác triển khai các hoạt động dưới sự quản lý của Humanity & Inclusion (HI).`,
-      },
-    ],
-  },
-  {
-    id: 15,
-    author: "NGUYỄN ĐÌNH VŨ",
-    thumnail:
-      "https://s3-alpha-sig.figma.com/img/5c65/b046/2d2817da98b70edf91426cb9beb8b815?Expires=1722211200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Te7kh4GX3Z8COpz0d~wwsuwsPzCi~ut-k9wy4w~TYuJpWI4bdreUBj0QyK5Fimv-whTuvtMWedozWKVJLC4X2C9u-9lySCfz7iMl7kynqbdAoivPZlInTXHinZSf2UCNnRpiXAVR48z1x67LtNbP7pV8tOQSFz-j~zkeyvwGkwsqQ3zTSOvXQ6xdAFrCYqCbpF9nRseL9MIrTMcuI1XvznfkucEaX5lVd1uCOuj3ABxUgt1jwd4yLpXvp7TaOU1NJw0yYoamqbocth7xH90TLYk9OsKEVZzefM2UmmeafyN0AcZ1htfU4Smk~uuCq-RuisEdnrgE37oLq-9epn5mjw__",
-    title:
-      "Ngày người khuyết tật Việt Nam 2024: Cùng hành động để người khuyết tật hoà nhập",
-    description:
-      "Nhằm thúc đẩy một xã hội tiếp cận và hoà nhập cho tất cả mọi người, chương trình...",
-    dateTime: "8 ngày trước",
-    day: "06/06/2024",
-    subContent: [
-      {
-        id: 1,
-        imageUrl:
-          "https://s3-alpha-sig.figma.com/img/b0d8/d56f/c1806f8883cbd4c5998f024877c5c3dd?Expires=1724025600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=chBwMqRwQ3QcpdnOWqGo4bNLveTN7k02KhlgBxXquDyqgGd2RnuQSM87y27KtbiV1lV0wq7-BjXdbdgVjTjF-YcYHFQTEe4dQEBM52gokeqSE4Iy4rfHeRKGQgEmK8IepgDpG1dYXZcc0b6lBWogMzMclZ57LhkNgxgQkCQ9FbxK~MGQZSiXveT-JTgBmAL~UhguyGCeYkO4NKdMeMd4JrtZYfyx0eWLfcm~6vzDGesFQvBdcACLEX4WXNjzhMKBHM-NMAchV7psP4353qnJyxdgj0s19ttftwtY~wwX~ZMwOWljsl4AEiCKROO~SpWREe5VIPrWXGzfbY3XZxZwMA__",
-        descImage:
-          "Đoàn công tác đang chia sẻ về các chính sách pháp luật và hoà nhập khuyết tật",
-        content: `Ngày 03-04/5/2024, Viện ACDC phối hợp cùng Sở Lao động – Thương binh và Xã hội, Trung tâm Trợ giúp pháp lý tỉnh và các tổ chức hỗ trợ người khuyết tật tỉnh Bình Định tổ chức tư vấn pháp luật và hoà nhập xã hội cho người khuyết tật huyện Tây Sơn. Sự kiện được diễn ra trong khuôn khổ dự án Hỗ trợ cải thiện chất lượng sống của người khuyết tật tại các tỉnh bị phun rải nặng chất da cam tại tỉnh Bình Định.\nĐoàn tư vấn pháp luật và hỗ trợ hoà nhập có sự tham gia của bà Vũ Thị Tuyết Mai – Giám đốc dự án; bà Lê Hải Yến, Trưởng phòng Luật Viện ACDC; bà Nguyễn Thị Thúy Hằng, đại diện Sở Lao động – Thương binh và Xã hội tỉnh; ông Lê Thành Sơn – Phó Giám đốc Trung tâm Trợ giúp pháp lý nhà nước tỉnh; ông Bùi Trung Dũng – Phó Chủ tịch Hội Bảo trợ người khuyết tật và Bảo vệ quyền trẻ em tỉnh; bà Nguyễn Thị Kim Vân – Phó Giám đốc Trung tâm giáo dục nghề nghiệp tỉnh; bà Trần Thị Thúy Nga – Phó Giám đốc Phòng Giao dịch Ngân hàng Chính sách xã hội huyện Tây Sơn.\nMục tiêu của hoạt động nhằm nâng cao hiểu biết cho người khuyết tật hoặc gia đình người khuyết tật về các chính sách, pháp luật hiện hành liên quan đến người khuyết tật; giúp tư vấn, giải đáp trực tiếp các câu hỏi, vụ việc liên quan đến pháp luật như cho người khuyết tật hoặc gia đình của người khuyết tật có nhu cầu.\nChia sẻ tại buổi tư vấn, ông Nguyễn Hữu Vinh, Trưởng phòng pháp luật về lao động xã hội, Trung tâm Trợ giúp pháp lý tỉnh Bình Định: Người dân đến tham gia hoạt động rất đông, và có nhiều thắc mắc không hiểu, cần được giải đáp. Người khuyết tật và người thân do tôi tư vấn đa phần là vấn đề thừa kế, về thủ tục làm giấy chứng nhận quyền sử dụng đất, tài sản trên đất… Hình thức tư vấn trực tiếp như thế này vô cùng hiệu quả và thiết thực với người khuyết tật.`,
-      },
-      {
-        id: 2,
-        imageUrl:
-          "https://s3-alpha-sig.figma.com/img/433c/42af/8f00633cf3ad3948ac1fd4b1f9b48b2e?Expires=1724025600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=HqBy209rek5vAr7PipdOUY5dxsElHDF7Kg~aMDOOS4SahN-~jPkfKg7g9a6ygsAcoUMkjdjt9P-pqc5csMXg5ZZG5l7820KpXRcin9T~dp-FWVnrVwluPHW1zt-eVhk7DruLB2Lw1XayV80NB8HkldZ~oO7G30rKx7OJaEe1qeBZs9OtNmjxLQ8KX1Bycz3IwyFPfPDAgM4TZ~EvBRa32KhJ0URMx9IselOYdM9AIgW~Nbb6rktwUftFw8hhSV~LIEsC2rogqPTCsljaphMXd6WLYwTsyo3SSfst-aML8yz~PHeNKjH0euT6RoVfBYTnAq5extgKypQsEmgAkBdvJQ__",
-        descImage:
-          "Đoàn công tác đang chia sẻ về các chính sách pháp luật và hoà nhập khuyết tật",
-        content: `Chia sẻ sau khi được tư vấn, chị N.T.N.L, người nhà của người khuyết tật tại xã Bình Nghi cho biết: Tôi hôm nay đến với mong muốn giải đáp câu hỏi về tăng trợ cấp cho người khuyết tật. Sau khi được tư vấn, tôi hiểu rõ được mức trợ cấp hiện tại là mức cao nhất của tỉnh. Tôi rất hài lòng với cách tư vấn tận tình và cặn kẽ của đoàn.\n\nÔng V.T, người khuyết tật xã Bình Hoà nói: Từ lâu, tôi đã băn khoăn về quyền thừa kế của mình nhưng không biết hỏi ai. Giờ được đoàn tư vấn quy trình thực hiện, tôi sẽ làm theo hướng dẫn và biết tìm đến đâu để được hỗ trợ.\nChị T.T.C, người khuyết tật vui mừng chia sẻ: Đây là lần đầu tiên tôi được tham gia một sự kiện như thế này. Buổi tư vấn vô cùng bổ ích vì được giải đáp từng vấn đề riêng của từng người. Tôi mong có nhiều hơn nữa hoạt động như thế này, vì người khuyết tật chúng tôi tiếp cận thông tin rất hạn chế. Tôi vô cùng biết ơn đoàn tư vấn đã đến tận nơi, hỗ trợ tận tình cho chúng tôi.\nHoạt động nằm trong khuôn khổ dự án “Hỗ trợ cải thiện chất lượng sống của người khuyết tật tại các tỉnh bị phun rải nặng chất da cam” (gọi tắt là Dự án Hoà nhập II) tại tỉnh Bình Định và Kon Tum giai đoạn 2023 – 2026, do Cơ quan Phát triển Quốc tế Hoa Kỳ (USAID) tài trợ, Trung tâm hành động quốc gia khắc phục hậu quả chất độc hóa học và môi trường (NACCET) thuộc Bộ Quốc phòng làm Chủ dự án. Viện ACDC là một trong các đối tác triển khai các hoạt động dưới sự quản lý của Humanity & Inclusion (HI).`,
-      },
-    ],
-  },
-  {
-    id: 16,
-    author: "TRỊNH THANH THANH",
-    thumnail:
-      "https://s3-alpha-sig.figma.com/img/97bf/1cf8/253394ccb2d30545d62e7dc8cb8ef0b8?Expires=1722211200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=erjD-A696nu-X7nQHMc5t2LOfpmXXhTrC3KQNzotRZyj8AnteWqxeShQlba7kSEt5I4rNY6HhBTRbv8r6ibG--6PHFfv-dtqsV3QX3G~KF8nizMx6ul9R2xtxnNWLU6HDaHUPoLkkcomvCi1Cw448b1lyUKsDSFD5FKyMaL0HSgP1zibrzlE~tzC78JBqu5PXttn9sY4J7eoK8QcfsDE0Rt7KQoALv0lNduX0PtnKEf~mKgM3SQLV-TK4ltLAl4egvVZkHz--gnbwcct~3jRpVVrV02qb5ARt9Ozpov3AVlYyB5oqy4Ip7WOwID1RC38OV8wOwvboXDJYniqeOo6ng__",
-    title: "Chuyện của chúng tôi",
-    description:
-      "Mình là một người phụ nữ mang trên mình khuyết tật về thể chất. Mình sinh ra và lớn lên tại Hà Nội, thủ đô của Việt Nam. Chuyện kể rằng, mình được sinh ra vào thời kỳ sau chiến tranh. ",
-    dateTime: "15 ngày trước",
-    day: "06/06/2024",
-    subContent: [
-      {
-        id: 1,
-        imageUrl:
-          "https://s3-alpha-sig.figma.com/img/b0d8/d56f/c1806f8883cbd4c5998f024877c5c3dd?Expires=1724025600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=chBwMqRwQ3QcpdnOWqGo4bNLveTN7k02KhlgBxXquDyqgGd2RnuQSM87y27KtbiV1lV0wq7-BjXdbdgVjTjF-YcYHFQTEe4dQEBM52gokeqSE4Iy4rfHeRKGQgEmK8IepgDpG1dYXZcc0b6lBWogMzMclZ57LhkNgxgQkCQ9FbxK~MGQZSiXveT-JTgBmAL~UhguyGCeYkO4NKdMeMd4JrtZYfyx0eWLfcm~6vzDGesFQvBdcACLEX4WXNjzhMKBHM-NMAchV7psP4353qnJyxdgj0s19ttftwtY~wwX~ZMwOWljsl4AEiCKROO~SpWREe5VIPrWXGzfbY3XZxZwMA__",
-        descImage:
-          "Đoàn công tác đang chia sẻ về các chính sách pháp luật và hoà nhập khuyết tật",
-        content: `Ngày 03-04/5/2024, Viện ACDC phối hợp cùng Sở Lao động – Thương binh và Xã hội, Trung tâm Trợ giúp pháp lý tỉnh và các tổ chức hỗ trợ người khuyết tật tỉnh Bình Định tổ chức tư vấn pháp luật và hoà nhập xã hội cho người khuyết tật huyện Tây Sơn. Sự kiện được diễn ra trong khuôn khổ dự án Hỗ trợ cải thiện chất lượng sống của người khuyết tật tại các tỉnh bị phun rải nặng chất da cam tại tỉnh Bình Định.\nĐoàn tư vấn pháp luật và hỗ trợ hoà nhập có sự tham gia của bà Vũ Thị Tuyết Mai – Giám đốc dự án; bà Lê Hải Yến, Trưởng phòng Luật Viện ACDC; bà Nguyễn Thị Thúy Hằng, đại diện Sở Lao động – Thương binh và Xã hội tỉnh; ông Lê Thành Sơn – Phó Giám đốc Trung tâm Trợ giúp pháp lý nhà nước tỉnh; ông Bùi Trung Dũng – Phó Chủ tịch Hội Bảo trợ người khuyết tật và Bảo vệ quyền trẻ em tỉnh; bà Nguyễn Thị Kim Vân – Phó Giám đốc Trung tâm giáo dục nghề nghiệp tỉnh; bà Trần Thị Thúy Nga – Phó Giám đốc Phòng Giao dịch Ngân hàng Chính sách xã hội huyện Tây Sơn.\nMục tiêu của hoạt động nhằm nâng cao hiểu biết cho người khuyết tật hoặc gia đình người khuyết tật về các chính sách, pháp luật hiện hành liên quan đến người khuyết tật; giúp tư vấn, giải đáp trực tiếp các câu hỏi, vụ việc liên quan đến pháp luật như cho người khuyết tật hoặc gia đình của người khuyết tật có nhu cầu.\nChia sẻ tại buổi tư vấn, ông Nguyễn Hữu Vinh, Trưởng phòng pháp luật về lao động xã hội, Trung tâm Trợ giúp pháp lý tỉnh Bình Định: Người dân đến tham gia hoạt động rất đông, và có nhiều thắc mắc không hiểu, cần được giải đáp. Người khuyết tật và người thân do tôi tư vấn đa phần là vấn đề thừa kế, về thủ tục làm giấy chứng nhận quyền sử dụng đất, tài sản trên đất… Hình thức tư vấn trực tiếp như thế này vô cùng hiệu quả và thiết thực với người khuyết tật.`,
-      },
-      {
-        id: 2,
-        imageUrl:
-          "https://s3-alpha-sig.figma.com/img/433c/42af/8f00633cf3ad3948ac1fd4b1f9b48b2e?Expires=1724025600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=HqBy209rek5vAr7PipdOUY5dxsElHDF7Kg~aMDOOS4SahN-~jPkfKg7g9a6ygsAcoUMkjdjt9P-pqc5csMXg5ZZG5l7820KpXRcin9T~dp-FWVnrVwluPHW1zt-eVhk7DruLB2Lw1XayV80NB8HkldZ~oO7G30rKx7OJaEe1qeBZs9OtNmjxLQ8KX1Bycz3IwyFPfPDAgM4TZ~EvBRa32KhJ0URMx9IselOYdM9AIgW~Nbb6rktwUftFw8hhSV~LIEsC2rogqPTCsljaphMXd6WLYwTsyo3SSfst-aML8yz~PHeNKjH0euT6RoVfBYTnAq5extgKypQsEmgAkBdvJQ__",
-        descImage:
-          "Đoàn công tác đang chia sẻ về các chính sách pháp luật và hoà nhập khuyết tật",
-        content: `Chia sẻ sau khi được tư vấn, chị N.T.N.L, người nhà của người khuyết tật tại xã Bình Nghi cho biết: Tôi hôm nay đến với mong muốn giải đáp câu hỏi về tăng trợ cấp cho người khuyết tật. Sau khi được tư vấn, tôi hiểu rõ được mức trợ cấp hiện tại là mức cao nhất của tỉnh. Tôi rất hài lòng với cách tư vấn tận tình và cặn kẽ của đoàn.\n\nÔng V.T, người khuyết tật xã Bình Hoà nói: Từ lâu, tôi đã băn khoăn về quyền thừa kế của mình nhưng không biết hỏi ai. Giờ được đoàn tư vấn quy trình thực hiện, tôi sẽ làm theo hướng dẫn và biết tìm đến đâu để được hỗ trợ.\nChị T.T.C, người khuyết tật vui mừng chia sẻ: Đây là lần đầu tiên tôi được tham gia một sự kiện như thế này. Buổi tư vấn vô cùng bổ ích vì được giải đáp từng vấn đề riêng của từng người. Tôi mong có nhiều hơn nữa hoạt động như thế này, vì người khuyết tật chúng tôi tiếp cận thông tin rất hạn chế. Tôi vô cùng biết ơn đoàn tư vấn đã đến tận nơi, hỗ trợ tận tình cho chúng tôi.\nHoạt động nằm trong khuôn khổ dự án “Hỗ trợ cải thiện chất lượng sống của người khuyết tật tại các tỉnh bị phun rải nặng chất da cam” (gọi tắt là Dự án Hoà nhập II) tại tỉnh Bình Định và Kon Tum giai đoạn 2023 – 2026, do Cơ quan Phát triển Quốc tế Hoa Kỳ (USAID) tài trợ, Trung tâm hành động quốc gia khắc phục hậu quả chất độc hóa học và môi trường (NACCET) thuộc Bộ Quốc phòng làm Chủ dự án. Viện ACDC là một trong các đối tác triển khai các hoạt động dưới sự quản lý của Humanity & Inclusion (HI).`,
+          "Những mặt hàng sản phẩm thủ công của 'Chạm vào xanh' do người khuyết tật thực hiện",
+        content: `Chi kể đã từng có thời gian dài "lê la" trên phố đi bộ cho đến các hội chợ, quán cà phê nhằm giới thiệu cho mọi người biết về các sản phẩm thủ công của người khuyết tật. Tuy nhiên hai cô gái nhận ra các sản phẩm thủ công kể trên cần có một vị trí xứng đáng hơn.
+
+Tháng 10-2022, "Chạm vào xanh" ra đời. Các sản phẩm mà "Chạm vào xanh" lựa chọn chính là đồ thủ công, các bức tranh vẽ do người khuyết tật hoặc do chính tay các mẹ có con là người CP làm ra.
+
+Không ít khách hàng trầm trồ cầm trên tay những chú gấu len xinh xắn, chiếc móc chìa khóa ngộ nghĩnh hay lục lạc cho bé yêu đầy màu sắc.
+
+Bên cạnh đó, "Chạm vào xanh" còn bày bán các mặt hàng thực phẩm sạch từ Đà Lạt chuyển ra thủ đô để gây quỹ vận hành doanh nghiệp.
+
+"Điều thuận lợi là các bạn khuyết tật tham gia vào doanh nghiệp không phải thay đổi không gian sống của mình. Các bạn có thể ở nhà, tranh thủ thời gian rảnh rỗi để làm việc mà không chịu bất kỳ bất tiện nào trong sinh hoạt hay đi lại. Điều này là rất cần thiết với người khuyết tật" - Chi bộc bạch.
+
+Tạo ra giá trị cho người khác
+Sau 6 tháng vận hành, "Chạm vào xanh" đã có những vị khách thân quen từ các hội chợ, các trường quốc tế hay cộng đồng người Nhật tại Hà Nội.
+
+Tuy nhiên việc vận hành doanh nghiệp không phải là điều dễ dàng. Để giải bài toán vận hành, Chi cùng cộng sự áp dụng phương pháp "chia nhỏ các bước".
+
+Chi kể, rất nhiều người khuyết tật đã "thay đổi cuộc đời" nhờ mạng xã hội. Do đó, vừa áp dụng kênh bán hàng truyền thống là đến các hội chợ, quán xá, đường sách, hai cô gái còn xây dựng thương hiệu nhờ mạng xã hội.
+
+Qua fanpage Facebook, Instagram, TikTok và mới đây là bán hàng trên Shopee, họ giới thiệu sản phẩm thủ công của người khuyết tật đến cho mọi người. Không dừng lại ở những vị khách thân quen, "Chạm vào xanh" bắt đầu đón chào những vị khách ở các tỉnh, thành khác nhau nhờ sự kết nối của mạng xã hội.
+
+"Chúng tôi xây dựng thương hiệu với mong muốn cộng đồng quen dần với hình ảnh của người khuyết tật thoải mái đi ra ngoài, làm việc nhiều hơn, tạo ra giá trị cho xã hội" - Chi bày tỏ.
+
+Người sáng lập "Chạm vào xanh" cho biết sắp tới sẽ cho ra mắt cửa hàng trưng bày các sản phẩm thủ công của người khuyết tật, từ đó mở ra một không gian để người khuyết tật bước ra hòa nhập với cộng đồng.
+
+Đồng thời, hai cô gái cũng mong muốn tìm kiếm các quỹ đầu tư để vận hành dự án Nâng cao năng lực cho người CP trưởng thành sống độc lập, để các thành viên có thêm động lực yêu bản thân, bước ra ngoài và tham gia nhiều hơn vào các hoạt động xã hội.
+
+Thùy Chi cho biết thêm hiện "Chạm vào xanh" cam kết sử dụng 51% lợi nhuận dùng để chi cho xây dựng hoạt động của cộng đồng CP trưởng thành, lợi nhuận còn lại dùng để vận hành doanh nghiệp và trả lương cho nhân viên.`,
       },
     ],
   },

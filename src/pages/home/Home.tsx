@@ -89,10 +89,6 @@ const Home = (props: Props) => {
             <div className="md:text-2xl mobile:text-[32px] md:font-bold mobile:font-heebo mobile:font-weight: 900 text-center ">
               Inclusive Sales Network
             </div>
-            <div className="text-xl py-2 text-center">
-              Website quảng bá và giới thiệu sản phẩm thủ công được tạo nên từ
-              bàn tay người khuyết tật.
-            </div>
           </div>
           <div className="flex justify-center mt-10">
             <img
@@ -106,7 +102,7 @@ const Home = (props: Props) => {
           title="Mục tiêu"
           additionalClassName="md:px-[224px] mobile:px-5"
         >
-          <div className="text-center md:text-[21px] mobile:text-[18px] md:px-[200px]">
+          <div className="text-center md:text-[21px] mobile:text-[18px]">
             Mục tiêu của chúng tôi là tạo ra một nền tảng trực tuyến giúp kết
             nối và là trung gian tìm mua những sản phẩm thủ công tinh xảo do
             người khuyết tật tạo ra, để giúp họ có thêm nguồn thu nhập. Website
