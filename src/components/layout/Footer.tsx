@@ -3,13 +3,13 @@ import React from "react";
 function Footer() {
   return (
     <div style={{ backgroundColor: "#D7DEFE" }}>
-      <div className=" flex justify-center ">
+      <div className=" flex justify-center md:max-h-[100px]">
         <div className="container flex justify-between md:items-center px-5 py-12 max-md:flex-col">
           <div className="my-10 ">
             <div className="text-3xl font-bold text-primary">ISN</div>
             <div className="font-bold">ISN - Inclusive Sales Network</div>
           </div>
-          <div className="my-10">
+          <div className="my-10 ">
             <div>Hotline: 098 352 3016</div>
             <div>Email: nghongphuc93@gmail.com</div>
           </div>
